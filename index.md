@@ -30,9 +30,11 @@ Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame
 
 You have **two** choices in order to show proof:
 
-* Record a video of you showing your character stats, all boss souls (if you transposed any of them, show the items you transposed) and bonfires/empty arenas. This will prove you defeated each of them.
+* Record a video of you showing your character stats, all boss souls and bonfires/empty arenas. This will prove you defeated each of them.
 
-* Make a gallery of **full** screenshots (no cropping or editing will be allowed) of your character stats, all boss souls (if you transposed any of them, show the items you transposed) and bonfires/empty arenas. This will prove you defeated each of them.
+* Make a gallery of **full** screenshots (no cropping or editing will be allowed) of your character stats, all boss souls  and bonfires/empty arenas. This will prove you defeated each of them.
+
+_If you used any boss souls for items, show them as well for proof. It is strongly recommended to not use boss souls just for souls, as you are effectively destroying your own SL1 proof._
 
 
 ### Proof for SL1 Legend of Dark Souls I, II or III | SL1 Monumental of Demon's Souls | BL4 Great One of Bloodborne
