@@ -45,3 +45,16 @@ To prove and verify this challenge, you need to beat and record/stream all boss 
 If you are streaming or recording an entire run (start to finish), please provide timestamps as the mods are expecting to check boss kills. Not taking the time to do so will just cause the verification to have a longer wait.
 
 |* _Unless you are going for a run with the typical 'Any%' rule set. This is only applicable to speedrunning._
+
+### Speediest Roles
+
+You can obtain a special role if you are the fastest player in the server to complete a SL1 or BL4 run in any of the games -all bosses-. However, if someone beats your time, you will lose the role.
+
+#### Speediest Players Hall of Fame
+
+* Demon's Souls: N/A - In-Game Time: N/A _(To get the ball rolling, any time quicker than 4:00:00 is valid)_
+* Dark Souls: Evoryn (Evoryn#4381) - In-Game Time: 3:48:37 _(Additional Info: Remastered)_
+* Dark Souls II: N/A - In-Game Time: N/A _(To get the ball rolling, any time quicker than 7:00:00 is valid)_
+* Bloodborne: N/A - In-Game Time: N/A _(To get the ball rolling, any time quicker than 4:00:00 is valid)_
+* Dark Souls III: Decc (decc#0001) - In-Game Time: 1:34:54 _(Additional Info: Pre-TRC, up for grabs for first person below 2:10:00 for all bosses including Ringed City)_
+These are independent from SL1 Legend. See here for help and information on speedrunning.
