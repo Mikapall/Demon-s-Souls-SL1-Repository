@@ -24,26 +24,24 @@ Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame
 
 - Cheating and cheesing during gameplay is strictly not allowed. Turning on iframes, tumblebuffing, kills outside the bosses' arenas, messing with the stats, breaking the AI so it becomes unable to harm you... None of this, and similar, will result in a disqualification. Please ask if you are uncertain about what is allowed and what isn't.
 
-#### Header 4
+### Proof for SL1 Champion of Dark Souls I, II or III | SL1 Slayer of Demon's Souls | BL4 Good Hunter of Bloodborne
 
+**You need to beat all boss fights -including DLCs- then show proof.**
 
+You have **two** choices in order to show proof:
 
-##### Header 5
+* Record a video of you showing your character stats, all boss souls (if you transposed any of them, show the items you transposed) and bonfires/empty arenas. This will prove you defeated each of them.
 
-###### Header 6
+* Make a gallery of **full** screenshots (no cropping or editing will be allowed) of your character stats, all boss souls (if you transposed any of them, show the items you transposed) and bonfires/empty arenas. This will prove you defeated each of them.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### Proof for SL1 Legend of Dark Souls I, II or III | SL1 Monumental of Demon's Souls | BL4 Great One of Bloodborne
+> Legends runs are SL1 runs with one or more handicaps to make it harder. Check the games' pages for a list of what counts, and what doesn't. If you have any doubt, ask the server mods.
 
-### There's a horizontal rule below this.
+To prove and verify this challenge, you need to beat and record/stream all boss fights -including DLCs*- no matter what. It is also recommended to start recordings before you enter the boss fog. A recording where the fight is ongoing and the boss has lost significant health or has advanced through phases will not be accepted, and consequently disqualified.
 
-*a *b *c
+If you are streaming or recording an entire run (start to finish), please provide timestamps as the mods are expecting  to check boss kills
 
+If you are streaming or recording an entire run, please provide timestamps as we’re expected to check boss kills. If you don’t take the small amount of time to timestamp your bosses, then it might take longer for your run to be verified.
 
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+> * Unless you are going for a run with the typical 'Any%' rule set. This is only applicable to speedrunning.
+Check if this is okay with the @Mods before you start the run, just incase there’s any issues and so you don’t have to potential re-do the run correctly because of a misunderstanding.
