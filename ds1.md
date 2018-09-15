@@ -65,7 +65,7 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
 |* Fist only run: It's recommended that Four Kings should be beaten with a different legendary challenge. Red Tear Stone Ring and Power Within are allowed for the fight (if doing it with Fist only).
 |* Caestus, Broken Straight Sword, Straight Sword Hilt: Red Tear Stone Ring and Power Within are allowed versus Four Kings.
 
-##SL1 Legend Banned Equipment
+## SL1 Legend Banned Equipment
 
 * Usage of Red Tear Stone Ring on base NG runs unless specified - It's too strong
 
