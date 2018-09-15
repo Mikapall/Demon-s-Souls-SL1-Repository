@@ -54,13 +54,12 @@ You can obtain a special role if you are the fastest player in the server to com
 
 
 | _Demon's Souls_ | N/A | N/A*  |
-| _Dark Souls I_ | Evoryn (Evoryn#4281) | [3:48:37](https://www.twitch.tv/videos/284101512)*  |
+| _Dark Souls I_ | Evoryn (Evoryn#4281) | [3:48:37](https://www.twitch.tv/videos/284101512) - Remastered  |
 | _Dark Souls II_ | N/A | N/A* |
 | _Dark Souls III_ | Decc (decc#0001) | [1:34:54](https://www.youtube.com/watch?v=dpZPqGeFn48)* |
 | _Bloodborne_ | N/A | N/A |
 
 |* For Demon's Souls, any time quicker than 4:00:00 is valid.
-|* Evoryn did this speedrun on _Dark Souls I: Remastered:_
 |* For Dark Souls II, any time quicker than 7:00:00 is valid.
 |* Decc did this speedrun prior to the Ringed City DLC. The role is up for grabs for the first person to do all bosses including the aforementioned DLC in less than 2:10:00.
 |* For Bloodborne, any time quicker than 4:00:00 is valid.
