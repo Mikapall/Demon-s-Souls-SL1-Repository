@@ -3,10 +3,10 @@ layout: default
 ---
 
 # Soulsborne SL1/BL4 Guidelines
->Roles are obtainable for all Soulsborne games. Click the list below to go to the different game guidelines.
+>Roles are obtainable for all Soulsborne games. Click the list below to go to the different game guidelines (or Index).
 
+ * [Index](./index.html).
  * [Demon's Souls](./demonssouls.html).
- * [Dark Souls I or Dark Souls: Remastered](./ds1.html).
  * [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.html).
  * [Dark Souls III](./ds3.html).
  * [Bloodborne](./bloodborne.html).
