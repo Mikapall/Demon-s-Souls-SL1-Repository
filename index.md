@@ -4,17 +4,18 @@ layout: default
 
 # Soulsborne SL1/BL4 Guidelines
 
-[Demon's Souls](./demonssouls.html).
- - [Dark Souls I](./ds1.html).
- - [Dark Souls II](./ds2.html).
+Roles are obtainable for all Soulsborne games. Click the list below to go to the different game guidelines.
+
+ - [Demon's Souls](./demonssouls.html).
+ - [Dark Souls I or Dark Souls: Remastered](./ds1.html).
+ - [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.html).
  - [Dark Souls III](./ds3.html).
  - [Bloodborne](./bloodborne.html).
+ 
+Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame as to what a SL1 runs requires. There is also not a big difference either on that aspect for _Dark Souls 2_ and the _Scholar of the First Sin_ edition, but most runners prefer to use the original _Dark Souls II_.
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
