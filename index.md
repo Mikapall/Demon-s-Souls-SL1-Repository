@@ -44,4 +44,4 @@ To prove and verify this challenge, you need to beat and record/stream all boss 
 
 If you are streaming or recording an entire run (start to finish), please provide timestamps as the mods are expecting to check boss kills. Not taking the time to do so will just cause the verification to have a longer wait.
 
-/* _Unless you are going for a run with the typical 'Any%' rule set. This is only applicable to speedrunning._
+|* _Unless you are going for a run with the typical 'Any%' rule set. This is only applicable to speedrunning._
