@@ -8,7 +8,7 @@ layout: default
  * [Index](./index.md).
  * [Demon's Souls](./des.md).
  * [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.md).
- * [Dark Souls III](./ds3.html).
+ * [Dark Souls III](./ds3.md).
  * [Bloodborne](./bb.md).
  
 Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame as to what a SL1 runs requires. There is also not a big difference either on that aspect for _Dark Souls II_ and the _Scholar of the First Sin_ edition, but most runners prefer to use the original _Dark Souls II_.
