@@ -40,9 +40,7 @@ You have **two** choices in order to show proof:
 
 To prove and verify this challenge, you need to beat and record/stream all boss fights -including DLCs*- no matter what. It is also recommended to start recordings before you enter the boss fog. A recording where the fight is ongoing and the boss has lost significant health or has advanced through phases will not be accepted, and consequently disqualified.
 
-If you are streaming or recording an entire run (start to finish), please provide timestamps as the mods are expecting  to check boss kills
-
-If you are streaming or recording an entire run, please provide timestamps as we’re expected to check boss kills. If you don’t take the small amount of time to timestamp your bosses, then it might take longer for your run to be verified.
+If you are streaming or recording an entire run (start to finish), please provide timestamps as the mods are expecting to check boss kills. Not taking the time to do so will just cause the verification to have a longer wait.
 
 > "*" Unless you are going for a run with the typical 'Any%' rule set. This is only applicable to speedrunning.
 Check if this is okay with the @Mods before you start the run, just incase there’s any issues and so you don’t have to potential re-do the run correctly because of a misunderstanding.
