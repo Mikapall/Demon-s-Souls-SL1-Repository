@@ -11,11 +11,11 @@ layout: default
  * [Dark Souls III](./ds3.html).
  * [Bloodborne](./bloodborne.html).
  
-Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame as to what a SL1 runs requires. There is also not a big difference either on that aspect for _Dark Souls 2_ and the _Scholar of the First Sin_ edition, but most runners prefer to use the original _Dark Souls II_.
+Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame as to what a SL1 runs requires. There is also not a big difference either on that aspect for _Dark Souls II_ and the _Scholar of the First Sin_ edition, but most runners prefer to use the original _Dark Souls II_.
 
 ### Banned Criteria
 
-- Any kind of help via summoning players or NPCs is not acceptable. The run will be disqualified because of this. This rule doesn't mean you can't do Sirris' or Anri's quest since you are summoned into their world for their quests (these are not your bossfights, so they don't count). For the situation with Biorr of the Twin Fangs, check the Demon's Souls page.
+- Any kind of help via summoning players or NPCs is not acceptable. The run will be disqualified because of this. This rule doesn't mean you can't do Sirris' or Anri's quest since you are summoned into their world for their quests (these are not your bossfights, so they don't count). For the situation with Biorr of the Twin Fangs vs the Penetrator, check the _Demon's Souls_ page.
 
 - Unless it's forced by the type of run, it is not allowed to obtain items before it's possible. In example, giving yourself a boss weapon as soon as you start a normal SL1/BL4 run is unacceptable and will result in a disqualification.
    - Exceptions: 
@@ -51,6 +51,12 @@ If you are streaming or recording an entire run (start to finish), please provid
 You can obtain a special role if you are the fastest player in the server to complete a SL1 or BL4 run in any of the games -all bosses-. However, if someone beats your time, you will lose the role.
 
 #### Speediest Players Hall of Fame
+
+
+| _Demon's Souls_ | N/A | N/A  |
+| _Dark Souls I_ | Evoryn (Evoryn#4281) | 3:48:37*  |
+| _Dark Souls II_ | N/A | N/A |
+| _Dark Souls III_ | Decc (decc#0001) | 1:34:54*  |
 
 * Demon's Souls: N/A - In-Game Time: N/A _(To get the ball rolling, any time quicker than 4:00:00 is valid)_
 
