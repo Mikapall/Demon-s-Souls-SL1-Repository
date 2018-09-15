@@ -53,20 +53,16 @@ You can obtain a special role if you are the fastest player in the server to com
 #### Speediest Players Hall of Fame
 
 
-| _Demon's Souls_ | N/A | N/A  |
+| _Demon's Souls_ | N/A | N/A*  |
 | _Dark Souls I_ | Evoryn (Evoryn#4281) | 3:48:37*  |
-| _Dark Souls II_ | N/A | N/A |
+| _Dark Souls II_ | N/A | N/A* |
 | _Dark Souls III_ | Decc (decc#0001) | 1:34:54*  |
 
-* Demon's Souls: N/A - In-Game Time: N/A _(To get the ball rolling, any time quicker than 4:00:00 is valid)_
 
-* Dark Souls: Evoryn (Evoryn#4381) - In-Game Time: 3:48:37 _(Additional Info: Remastered)_
-
-* Dark Souls II: N/A - In-Game Time: N/A _(To get the ball rolling, any time quicker than 7:00:00 is valid)_
-
-* Dark Souls III: Decc (decc#0001) - In-Game Time: 1:34:54 _(Additional Info: Pre-TRC, up for grabs for first person below 2:10:00 for all bosses including Ringed City)_
-
-* Bloodborne: N/A - In-Game Time: N/A _(To get the ball rolling, any time quicker than 4:00:00 is valid)_
-
+|* For Demon's Souls, any time quicker than 4:00:00 is valid.
+|* Evoryn did this speedrun on _Dark Souls I: Remastered:_
+|* For Dark Souls II, any time quicker than 7:00:00 is valid.
+|* Decc did this speedrun prior to the Ringed City DLC. The role is up for grabs for the first person to do all bosses including the aforementioned DLC in less than 2:10:00.
+|* For Bloodborne, any time quicker than 4:00:00 is valid.
 
 > These are 100% independent from legendary runs. Check [this link](http://speedsouls.com/Main_Page) for help and information on speedrunning.
