@@ -57,7 +57,7 @@ You can obtain a special role if you are the fastest player in the server to com
 | _Dark Souls I_ | Evoryn (Evoryn#4281) | 3:48:37*  |
 | _Dark Souls II_ | N/A | N/A* |
 | _Dark Souls III_ | Decc (decc#0001) | 1:34:54*  |
-
+| _Bloodborne_ | N/A | N/A |
 
 |* For Demon's Souls, any time quicker than 4:00:00 is valid.
 |* Evoryn did this speedrun on _Dark Souls I: Remastered:_
