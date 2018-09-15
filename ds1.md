@@ -13,56 +13,60 @@ layout: default
  
 Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame as to what a SL1 runs requires. There is also not a big difference either on that aspect for _Dark Souls II_ and the _Scholar of the First Sin_ edition, but most runners prefer to use the original _Dark Souls II_.
 
-### Banned Criteria
+## DS1 & DS1:R - SL1 Requirements
 
-- Any kind of help via summoning players or NPCs is not acceptable. The run will be disqualified because of this. This rule doesn't mean you can't do Sirris' or Anri's quest since you are summoned into their world for their quests (these are not your bossfights, so they don't count). For the situation with Biorr of the Twin Fangs vs the Penetrator, check the _Demon's Souls_ page.
+**For SL1 Champion we require all bosses to be defeated with screenshots/videos of the following:**
 
-- Unless it's forced by the type of run, it is not allowed to obtain items before it's possible. In example, giving yourself a boss weapon as soon as you start a normal SL1/BL4 run is unacceptable and will result in a disqualification.
-   - Exceptions: 
-     - Ask the server mods for discussion and/or permission if there is the possibility of such.
-     - Normally it is accepted to use Cheat Engine to give yourself items for a Legend run. In example, giving yourself a torch as soon as you start the game to complete a Torch-only run.
+* Stray Demon - Empty arena
+* Taurus Demon - Empty arena
+* Bell Gargoyles - Empty arena
+* Capra Demon - Key to the Depths / Empty Arena
+* Gaping Dragon - Key to Blighttown / Empty arena
+* Demon Firesage - Demon's Catalyst / Empty arena
+* Centipede Demon - Empty arena
+* Black Dragon Kalameet - Calamity Ring / Empty arena
+* All Boss Souls and/or their bonfires/empty arenas
 
-- Cheating and cheesing during gameplay is strictly not allowed. Turning on iframes, tumblebuffing, kills outside the bosses' arenas, messing with the stats, breaking the AI so it becomes unable to harm you... None of this, and similar, will result in a disqualification. Please ask if you are uncertain about what is allowed and what isn't.
-
-### Proof for SL1 Champion of Dark Souls I, II or III | SL1 Slayer of Demon's Souls | BL4 Good Hunter of Bloodborne
-
-**You need to beat all boss fights -including DLCs- then show proof.**
-
-You have **two** choices in order to show proof:
-
-* Record a video of you showing your character stats, all boss souls and bonfires/empty arenas. This will prove you defeated each of them.
-
-* Make a gallery of **full** screenshots (no cropping or editing will be allowed) of your character stats, all boss souls  and bonfires/empty arenas. This will prove you defeated each of them.
+**As long as the run allows it, cheesing Bed of Chaos and Ceaseless Discharge is fine.**
 
 _If you used any boss souls for items, show them as well for proof. It is strongly recommended to not use boss souls just for souls, as you are effectively destroying your own SL1 proof._
 
 
-### Proof for SL1 Legend of Dark Souls I, II or III | SL1 Monumental of Demon's Souls | BL4 Great One of Bloodborne
-> Legends runs are SL1 runs with one or more handicaps to make it harder. Check the games' pages for a list of what counts, and what doesn't. If you have any doubt, ask the server mods.
+## DS1 & DS1:R - SL1 Resources
 
-To prove and verify this challenge, you need to beat and record/stream all boss fights -including DLCs*- no matter what. It is also recommended to start recordings before you enter the boss fog. A recording where the fight is ongoing and the boss has lost significant health or has advanced through phases will not be accepted, and consequently disqualified.
+Generally, Reinforced Club is your main weapon for most if not all the game. Eventually it is recommended to upgrade it to a Chaos Reinforced Club -and possibly a Lightning Reinforced Club if you don't want to or can't use Blacksmith Giant Hammer-. Using fire damage for early game and then upgrade to Chaos is fine. Mentioned before, Blacksmtih Giant Hammer is the other most recommended weapon, so alternating between them based on boss resistances is optimal.
 
-If you are streaming or recording an entire run (start to finish), please provide timestamps as the mods are expecting to check boss kills. Not taking the time to do so will just cause the verification to have a longer wait.
+[Parallax's General SL1 Route and Advice](https://docs.google.com/document/d/10deHvKRrM6seFxEsE7evS8w_wnYR_GOlHaeiU2YCRsI)
 
-|* _Unless you are going for a run with the typical 'Any%' rule set. This is only applicable to speedrunning._
+[Very good video guide](https://www.youtube.com/watch?v=km6y1bDr52o) showing routing, weapons and other stuff (even if you don’t use pyromancies this video is useful).
 
-### Speediest Roles
+[In-depth guide](https://docs.google.com/document/d/1w5J7YqV6Tl60uGN290Uqk0yLFfjojNzskgfOyMjbbeQ) by Reddit user /r/Ridiculisk1. It includes routing and individual boss advice.
 
-You can obtain a special role if you are the fastest player in the server to complete a SL1 or BL4 run in any of the games -all bosses-. However, if someone beats your time, you will lose the role.
+[SL1 boss advice for some specific bosses.](https://www.reddit.com/r/onebros/comments/5raro1/get_rekt_gwyn)
 
-#### Speediest Players Hall of Fame
+## Acceptable SL1 Legend Criteria
 
+* SL1 NG+6
+* SL1 No Rolling/Blocking/Parrying
+* SL1 +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
+* SL1 All Bosses Speedrun*
+* SL1 Perma-Death run - Record all of the run*
+* SL1 Not Hit & Any%*
+* SL1 Zero Weapon Durability _(Also called broken weapon run.)_
+* SL1 Blindfolded run _(Not allowed to see the screen, needs a clear webcam stream to prove.)_
+* SL1 Fist only*
+* SL1 Caestus only*
+* SL1 Broken Straight Sword only*
+* SL1 Straight Sword Hilt only*
 
-| _Demon's Souls_ | N/A | N/A*  |
-| _Dark Souls I_ | Evoryn (Evoryn#4281) | 3:48:37*  |
-| _Dark Souls II_ | N/A | N/A* |
-| _Dark Souls III_ | Decc (decc#0001) | 1:34:54*  |
-| _Bloodborne_ | N/A | N/A |
+|* For the Speedrun, check the [Index](./index.md) section on Speedrun. Artorias of the Abyss DLC is mandatory.
+|* Perma-Death run: Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
+|* Not Hit run: Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
+|* Fist only run: It's recommended that Four Kings should be beaten with a different legendary challenge. Red Tear Stone Ring and Power Within are allowed for the fight (if doing it with Fist only).
+|* Caestus, Broken Straight Sword, Straight Sword Hilt: Red Tear Stone Ring and Power Within are allowed versus Four Kings.
 
-|* For Demon's Souls, any time quicker than 4:00:00 is valid.
-|* Evoryn did this speedrun on _Dark Souls I: Remastered:_
-|* For Dark Souls II, any time quicker than 7:00:00 is valid.
-|* Decc did this speedrun prior to the Ringed City DLC. The role is up for grabs for the first person to do all bosses including the aforementioned DLC in less than 2:10:00.
-|* For Bloodborne, any time quicker than 4:00:00 is valid.
+##SL1 Legend Banned Equipment
 
-> These are 100% independent from legendary runs. Check [this link](http://speedsouls.com/Main_Page) for help and information on speedrunning.
+* Usage of Red Tear Stone Ring on base NG runs unless specified - It's too strong
+
+* Usage of offensive Pyromancy spells unless specified - Power Within, Great Combustion, Black Flame, Fireorb and Great Chaos Fireball are too strong
