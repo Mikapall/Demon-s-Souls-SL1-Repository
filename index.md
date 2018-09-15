@@ -6,7 +6,7 @@ layout: default
 >Roles are obtainable for all Soulsborne games. Click the list below to go to the different game guidelines.
 
  * [Demon's Souls](./demonssouls.html).
- * [Dark Souls I or Dark Souls: Remastered](./ds1.html).
+ * [Dark Souls I or Dark Souls: Remastered](./darksouls1.md).
  * [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.html).
  * [Dark Souls III](./ds3.html).
  * [Bloodborne](./bloodborne.html).
