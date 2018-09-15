@@ -53,9 +53,14 @@ You can obtain a special role if you are the fastest player in the server to com
 #### Speediest Players Hall of Fame
 
 * Demon's Souls: N/A - In-Game Time: N/A _(To get the ball rolling, any time quicker than 4:00:00 is valid)_
+
 * Dark Souls: Evoryn (Evoryn#4381) - In-Game Time: 3:48:37 _(Additional Info: Remastered)_
+
 * Dark Souls II: N/A - In-Game Time: N/A _(To get the ball rolling, any time quicker than 7:00:00 is valid)_
-* Bloodborne: N/A - In-Game Time: N/A _(To get the ball rolling, any time quicker than 4:00:00 is valid)_
+
 * Dark Souls III: Decc (decc#0001) - In-Game Time: 1:34:54 _(Additional Info: Pre-TRC, up for grabs for first person below 2:10:00 for all bosses including Ringed City)_
+
+* Bloodborne: N/A - In-Game Time: N/A _(To get the ball rolling, any time quicker than 4:00:00 is valid)_
+
 
 > These are 100% independent from legendary runs. Check [this link](http://speedsouls.com/Main_Page) for help and information on speedrunning.
