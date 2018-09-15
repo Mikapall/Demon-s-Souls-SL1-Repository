@@ -4,7 +4,11 @@ layout: default
 
 # Soulsborne SL1/BL4 Guidelines
 
-[Demon's Souls] - [Dark Souls I] - [Dark Souls II] - [Dark Souls III] - [Bloodborne]
+[Demon's Souls](./demonssouls.html).
+ - [Dark Souls I](./ds1.html).
+ - [Dark Souls II](./ds2.html).
+ - [Dark Souls III](./ds3.html).
+ - [Bloodborne](./bloodborne.html).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
