@@ -46,25 +46,31 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
 
 ## Acceptable SL1 Legend Criteria
 
-* SL1 NG+6
-* SL1 No Rolling/Blocking/Parrying
-* SL1 +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
-* SL1 All Bosses Speedrun*
-* SL1 Perma-Death run - Record all of the run*
-* SL1 Not Hit & Any%*
-* SL1 Zero Weapon Durability _(Also called broken weapon run.)_
-* SL1 Blindfolded run _(Not allowed to see the screen, needs a clear webcam stream to prove.)_
-* SL1 Fist only*
-* SL1 Caestus only*
-* SL1 Broken Straight Sword only*
-* SL1 Straight Sword Hilt only*
-
-|* For the Speedrun, check the [Index](./index.md) section on Speedrun. Artorias of the Abyss DLC is mandatory.
-|* Perma-Death run: Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
-|* Not Hit run: Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
-|* Fist only run: It's recommended that Four Kings should be beaten with a different legendary challenge. Red Tear Stone Ring and Power Within are allowed for the fight (if doing it with Fist only).
-|* Caestus, Broken Straight Sword, Straight Sword Hilt: Red Tear Stone Ring and Power Within are allowed versus Four Kings.
-
+- SL1 NG+6
+- SL1 No Rolling/Blocking/Parrying
+- SL1 +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
+- SL1 All Bosses Speedrun
+  - Check the [Index](./index.md) section on Speedruns.
+  - Artorias of the Abyss DLC is mandatory.
+- SL1 Perma-Death run
+  - Record the full run.
+  - Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
+- SL1 Not Hit & Any%
+  - Record the full run.
+  - Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
+- SL1 Zero Weapon Durability _(Also called broken weapon run.)_
+- SL1 Blindfolded run
+  - Not allowed to see the screen, you need a clear webcam stream to prove.
+- SL1 Fist only
+  - It's recommended that Four Kings should be beaten with a different legendary challenge.
+  - Red Tear Stone Ring and Power Within are allowed for the fight (if doing it Fist only).
+- SL1 Caestus only
+  - Red Tear Stone Ring and Power Within are allowed versus Four Kings.
+- SL1 Broken Straight Sword only
+  - Red Tear Stone Ring and Power Within are allowed versus Four Kings.
+- SL1 Straight Sword Hilt only
+  - Red Tear Stone Ring and Power Within are allowed versus Four Kings.
+  
 ## SL1 Legend Banned Equipment
 
 * Usage of Red Tear Stone Ring on base NG runs unless specified - It's too strong
