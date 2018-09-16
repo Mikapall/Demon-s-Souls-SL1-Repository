@@ -23,14 +23,26 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 ## Acceptable SL1 Monumental Criteria
 
-* SL1 NG+5
-* SL1 No Rolling/Blocking/Parrying run
-* SL1 +0 Weapons, Normal Upgrade Path, No Bleed, No Toxic, No Poison run
-* SL1 Deathless run - Record all of the run (Ignore dying to Journey to the Nexus’ Dragon God)
-* SL1 Not Hit Run - Record all of the run (Ignore dying to Journey to the Nexus’ Dragon God)
-* SL1 Blindfolded run - Not allowed to see the screen, needs a clear webcam stream to prove
-* SL1 Fist only
-* SL1 Zero Weapon Durability - e.g. the weapon is broken, also called “Broken Weapon run”
+- SL1 NG+5
+
+- SL1 No Rolling/Blocking/Parrying
+
+- SL1 +0 Weapons, Normal Upgrade Path, No Bleed, No Toxic, No Poison
+
+- SL1 Deathless run
+  - Record the full run. 
+  - Ignore dying to Journey to the Nexus’ Dragon God.
+  
+- SL1 Not Hit Run
+  - Record the full run. 
+  - Ignore dying to Journey to the Nexus’ Dragon God.
+  
+- SL1 Blindfolded run.
+  - Not allowed to see the screen, you need a clear webcam stream to prove.
+  
+- SL1 Fist only
+
+- SL1 Zero Weapon Durability _(Also called broken weapon run.)_
 
 ## SL1 Monumental Banned Equipment and Strategies
 
