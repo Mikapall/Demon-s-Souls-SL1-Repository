@@ -59,7 +59,7 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
 * SL1 Broken Straight Sword only*
 * SL1 Straight Sword Hilt only*
 
-|* For the Speedrun, check the [Index](./index.md) section on Speedrun. Artorias of the Abyss DLC is mandatory.
+*For the Speedrun, check the [Index](./index.md) section on Speedrun. Artorias of the Abyss DLC is mandatory.
 |* Perma-Death run: Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
 |* Not Hit run: Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
 |* Fist only run: It's recommended that Four Kings should be beaten with a different legendary challenge. Red Tear Stone Ring and Power Within are allowed for the fight (if doing it with Fist only).
