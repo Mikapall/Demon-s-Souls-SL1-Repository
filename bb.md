@@ -57,7 +57,7 @@ Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame
 - BL4 Fist only
 
 - BL4 Torch only
-  - - Either Torch counts.
+  - Either Torch counts.
   
 ## BL4 Great One Banned Equipment
 
