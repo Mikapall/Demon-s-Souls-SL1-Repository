@@ -54,6 +54,6 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 * Clever Rat Ring on base NG. It's too strong.
 
-* Offensive magic (which you can hardly cast). 
+* Offensive spells/miracles (which you can hardly cast). 
 
 * Multiple cheese tactics or exploits exclusive to this game. In example, using the bow glitch for Maneaters (shooting through the fog) or killing Vanguard (4-1) out of his aggro range.
