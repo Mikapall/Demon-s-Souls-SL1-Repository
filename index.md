@@ -15,7 +15,7 @@ Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame
 
 ### Banned Criteria
 
-- Any kind of help via summoning players or NPCs is not acceptable. The run will be disqualified because of this. This rule doesn't mean you can't do Sirris' or Anri's quest since you are summoned into their world for their quests (these are not your bossfights, so they don't count). For the situation with Biorr of the Twin Fangs vs the Penetrator, check the _Demon's Souls_ page.
+- Any kind of help via summoning players or NPCs is not acceptable. The run will be disqualified because of this. This rule doesn't mean you can't do Sirris' or Anri's quest since you are summoned into their world for their quests (these are not your bossfights, so they don't count). This is also the case for the situation with Biorr of the Twin Fangs vs the Penetrator.
 
 - Unless it's forced by the type of run, it is not allowed to obtain items before it's possible. In example, giving yourself a boss weapon as soon as you start a normal SL1/BL4 run is unacceptable and will result in a disqualification.
    - Exceptions: 
@@ -59,9 +59,12 @@ You can obtain a special role if you are the fastest player in the server to com
 | _Dark Souls III_ | Decc (decc#0001) | [1:34:54](https://www.youtube.com/watch?v=dpZPqGeFn48)* |
 | _Bloodborne_ | N/A | N/A |
 
-|* For Demon's Souls, any time quicker than 4:00:00 is valid.
-|* For Dark Souls II, any time quicker than 7:00:00 is valid.
-|* Decc did this speedrun prior to the Ringed City DLC. The role is up for grabs for the first person to do all bosses including the aforementioned DLC in less than 2:10:00.
-|* For Bloodborne, any time quicker than 4:00:00 is valid.
+*For Demon's Souls, any time quicker than 4:00:00 is valid.
+
+*For Dark Souls II, any time quicker than 7:00:00 is valid.
+
+*Decc did his speedrun prior to the Ringed City DLC. The role is up for grabs for the first person to do all bosses including the aforementioned DLC in less than 2:10:00.
+
+*For Bloodborne, any time quicker than 4:00:00 is valid.
 
 > These are 100% independent from legendary runs. Check [this link](http://speedsouls.com/Main_Page) for help and information on speedrunning.
