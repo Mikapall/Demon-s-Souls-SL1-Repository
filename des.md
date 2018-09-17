@@ -57,3 +57,5 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 * Offensive spells/miracles (which you can hardly cast). 
 
 * Multiple cheese tactics or exploits exclusive to this game. In example, using the bow glitch for Maneaters (shooting through the fog) or killing Vanguard (4-1) out of his aggro range.
+
+* Biorr of the Twin Fangs against Penetrator. Just don't unlock his cell in 1-2.
