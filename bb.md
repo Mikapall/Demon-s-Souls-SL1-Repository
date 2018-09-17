@@ -15,7 +15,7 @@ Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame
 
 ## BB - BL4 Requirements
 
-**For SL1 Good Hunter we require all bosses to be defeated with screenshots/videos of the following:**
+**For BL4 Good Hunter we require all bosses to be defeated with screenshots/videos of the following:**
 
 * Every Boss lamp
 * Stats
