@@ -54,16 +54,19 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
 
 - SL1 All Bosses Speedrun
   - Check the [Index](./index.md) section on Speedruns.
-  - Artorias of the Abyss DLC is mandatory.
-- SL1 Perma-Death run
+  - 'Artorias of the Abyss' DLC is mandatory.
+  
+- SL1 Perma-Death
   - Record the full run.
   - Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
+  
 - SL1 Not Hit & Any%
   - Record the full run.
   - Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
+  
 - SL1 Zero Weapon Durability _(Also called broken weapon run.)_
 
-- SL1 Blindfolded run
+- SL1 Blindfolded
   - Not allowed to see the screen, you need a clear webcam stream to prove.
   
 - SL1 Fist only
