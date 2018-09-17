@@ -46,8 +46,14 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 ## SL1 Monumental Banned Equipment and Strategies
 
-Usage of Morion Blade - It's too strong
-Usage of Second Chance - It's too strong
-Usage of the Thief Ring - It's too strong on certain bosses
-Usage of offensive magic - It's too strong
+* Morion Blade on base NG. It's too strong.
+
+* Second Chance. It's cheap, granting a second opportunity in the middle of a fight.
+
+* Thief Ring. It's too strong on bosses like Old Hero or Storm King (you are free to use when getting to the boss fog).
+
+* Clever Rat Ring on base NG. It's too strong.
+
+* Offensive magic (which you can hardly cast). 
+
 Multiple cheese tactics or exploits. In example, using the bow glitch for Maneaters (shooting through the fog) or killing Vanguard (4-1) out of his aggro range.
