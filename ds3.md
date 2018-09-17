@@ -8,69 +8,118 @@ layout: default
  * [Index](./index.md).
  * [Demon's Souls](./des.md).
  * [Dark Souls I or Dark Souls I: Remastered](./ds1.md).
- * [Dark Souls III](./ds3.md).
+ * [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.md).
  * [Bloodborne](./bb.md).
  
 Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame as to what a SL1 runs requires. There is also not a big difference either on that aspect for _Dark Souls II_ and the _Scholar of the First Sin_ edition, but most runners prefer to use the original _Dark Souls II_.
 
-## DS2 & DS2:SotFS - SL1 Requirements
+## DS3 - SL1 Requirements
 
 **For SL1 Champion we require all bosses to be defeated with screenshots/videos of the following:**
 
-* Aldia - Defeat Dialogue AND the visible choice to pick _'Leave Throne'_.
-* Ancient Dragon - Empty arena
-* Cerah, Varg and Graverobber - Flower Skirt / Empty Arena
-* Blue Smelter Demon - Pharros Mask / Aged Smelter Sword / Empty Arena
-* All Boss Souls and/or their bonfires/empty arenas
+* All Boss Souls and/or their bonfires/empty arenas.
 
-**Vendrick has to be included.**
+**Stray Demon (Lothric's Bridge) and the Demon just before Smouldering Lake are entirely optional.**
 
 _If you used any boss souls for items, show them as well for proof. It is strongly recommended to not use boss souls just for souls, as you are effectively destroying your own SL1 proof._
 
 
-## DS2 & DS2:SotFS - SL1 Resources
+## DS3 - SL1 Resources
 
-Advices provided by Xerieh:
+[Parallax's General SL1 Route and Advice.](https://docs.google.com/document/d/16ETAweJntmq9IrIAhz9khr1l_Pd7mncZJ07NRuhuq9c/edit?usp=sharing)
 
-1. Use Dagger until having the Mace available. Then, use Mace until obtaining Rapier. Combine Rapier with Cale's Helm and Work Hook.
-2. Go to the start of the Iron King DLC as soon as possible so you can get the Dexterity Ring. You don't want to lose Agility if you are rolling.
-3. You can use Homunculus Mace with the Strength Ring (or Mace if you don't have this ring) for bosses such as Dragonrider (or Twins), Smelter Demons, Mirror Knight, Ruin Sentinels, Skeleton Lords, Fume Knight, and Elana's Velstadt/Skeletons.
+[SL1 All Bosses Route.](https://docs.google.com/document/d/1q41cn0KfqStzpSCOvhBsFjCNdGZ58Pvjk83-CbFePRw)
+
+**Recommended Equipment:**
+
+- Dragonslayer's Axe (Raw): Usually mentioned as _DSA_. Extremely good weapon, you can use this on almost everything.
+
+- Millwood Battle Axy (Heavy): Similar to DSA, but with physical damage instead of split. Good for bosses resistant to lightning but not difficult to damage. Can be used together with Lothric War Banner.
+
+- Broadsword (Raw and Fire): Acts like a faster Millwood Battle Axe, but with less damage. Good for general damage on fast bosses. Raw allows poison application. Can be used together with Lothric War Banner.
+
+- Flamberge (Sharp): High stagger potential, good damage and bleed status.
+
+- Bandit's Knife (Blood): Bleed status.
+
+- Profaned Greatsword: Charged R2 cheese on some bosses, notably Halflight.
+
+- Crossbows: Mostly for punishing, cheesy tactics.
+
+- Storyteller's Staff: Poison scales with max health. Tons of damage. It is not allowed against bosses.
+
+- Rotten Ghru Dagger (Poison): Produces poisoned status extremely quick.
+
+- Dagger (Deep, Fire, Sharp): Good critical damage.
+
+
 
 ## Acceptable SL1 Legend Criteria
 > _CoC_ means you have to be in the _Company of Champions_ covenant. Ignore this requirement for Darklurker since it is not possible to fight it without changing covenant.
 
 - SL1 NG+7
 
-- SL1 & CoC No Rolling/ Blocking/Parrying/Red Tearstone Ring R
+- SL1 No Rolling/Blocking/Parrying
 
-- SL1 & CoC +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
+- SL1 +0 Weapons/No Infusions/No Bleed/No Toxic/No Poison/No Frost/No Dark Hand
 
 - SL1 All Bosses Speedrun
   - Check the [Index](./index.md) section on Speedruns.
-  - 'The Lost Crowns' DLCs are mandatory.
+  - 'Ashes of Ariandel' and 'The Ringed City' DLCs are mandatory.
   
-- SL1 & CoC Perma-Death
+- SL1 Perma-Death
   - Record the full run.
+  - Check the banned equipment page for more info on what is allowed for this run.
   
 - SL1 & CoC Not Hit & Any%
   - Record the full run.
   
-- SL1 & CoC Zero Weapon Durability _(Also called broken weapon run.)_
+- SL1 NG+ Zero Weapon Durability _(Also called broken weapon run.)_ + No Bleed/No Toxic/No Poison/No Frost/No Dark Hand
 
-- SL1 Blindfolded run
+- SL1 -80 NG+
+  - This is SL-80, obtained by using exploits or cheats with the result of having only 1 point in every stat.
+
+- SL1 Blindfolded
   - Not allowed to see the screen, you need a clear webcam stream to prove.
   
-- SL1 & CoC Fist only
-  - Vanquisher's Seal is not allowed. Show your rings / equipment screen after killing the bosses.
+- SL1 Armour of Thorns only
+  - It's recommended that Yhorm, Soul of Cinder, Halflight, Gravetender, Deacons and Wolnir should be beaten with a different legendary challenge.
   
-- SL1 & CoC Broken Ladle only
+- SL1 Fist only
+  - It's recommended that Soul of Cinder, Halflight, Gravetender, Deacons and Wolnir should be beaten with a different legendary challenge.
   
-- SL1 & CoC Broken Thief Sword only
+- SL1 Torch only
+  - It's recommended that Iudex, Deacons and Yhorm should be beaten with a different legendary challenge.
   
-- SL1 & CoC Broken Straight Sword only
+- SL1 Soldering Iron only
+  - It's recommended that Yhorm should be beaten with a different legendary challenge.
   
 ## SL1 Legend Banned Equipment
 
-* Red Tearstone Ring on base NG. Makes It's too strong.
+- Tears of Denial. Promotes error-prone combat, avoiding death via equipment is already simple. As said, allowed for Perma-Death runs.
 
-* Brightbug on base NG.
+- Morion Blade. It's too strong. However this is allowed on Perma-Death runs.
+
+- Storm Ruler against Yhorm. It's too strong.
+
+- Siegward versus Yhorm is unacceptable.
+
+- Storyteller's Staff against bosses. The Weapon Art makes boss fights way too passive with little risk.
+
+## Runs that are not considered challenging enough for SL1 Legend
+
+- Any class that is not Deprived. Not SL1.
+
+- SL1 First Person. It's just as playable.
+
+- SL1 No Armour. Since you get 1 or 2-shot by most things anyway this alone wouldn't really be a challenge.
+
+- SL1 No Healing. See reasons above.
+
+- SL1 [insert weapon].  If the weapon is a very bad weapon it could be considered for Legend Run. If the weapon is something decent like the Astora Straight Sword... then no, it shouldn't count for Legend run.
+
+- SL1 NG+ Dark Hand. Not weak enough.
+
+- SL1 Keyboard and Mouse. Since some people prefer to play on Keyboard and Mouse, this doesn't count.
+
+- SL1 No Weapon buffs - Since most of the damage comes from Rings and not Resins/Bundles/Spells especially against the DLC bosses, not using Weapon buffs isn't enough for Legend runs (and besides, you can just bleed bosses with a blood infused bandit knife and kill them really fast).
