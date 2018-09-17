@@ -30,6 +30,8 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 [SL1 All Bosses Route.](https://docs.google.com/document/d/1q41cn0KfqStzpSCOvhBsFjCNdGZ58Pvjk83-CbFePRw)
 
+[Usable weapons data by Decc.](https://docs.google.com/spreadsheets/d/15PBJkSpoXs9gWpngOPUP-YNrfps0CWFb45vuHCorx-s/edit#gid=0)
+
 **Recommended Equipment:**
 
 - Dragonslayer's Axe (Raw): Usually mentioned as _DSA_. Extremely good weapon, you can use this on almost everything.
