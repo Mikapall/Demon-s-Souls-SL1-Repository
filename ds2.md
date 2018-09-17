@@ -57,7 +57,7 @@ Advices provided by Xerieh:
   
 - SL1 & CoC Zero Weapon Durability _(Also called broken weapon run.)_
 
-- SL1 Blindfolded run
+- SL1 Blindfolded
   - Not allowed to see the screen, you need a clear webcam stream to prove.
   
 - SL1 & CoC Fist only
