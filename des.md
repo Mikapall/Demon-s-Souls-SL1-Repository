@@ -29,15 +29,15 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 - SL1 +0 Weapons, Normal Upgrade Path, No Bleed, No Toxic, No Poison
 
-- SL1 Deathless run
+- SL1 Deathless
   - Record the full run. 
   - Ignore dying to Journey to the Nexus’ Dragon God.
   
-- SL1 Not Hit Run
+- SL1 Not Hit
   - Record the full run. 
   - Ignore dying to Journey to the Nexus’ Dragon God.
   
-- SL1 Blindfolded run.
+- SL1 Blindfolded
   - Not allowed to see the screen, you need a clear webcam stream to prove.
   
 - SL1 Fist only
