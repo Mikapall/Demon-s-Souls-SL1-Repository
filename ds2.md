@@ -41,7 +41,7 @@ Advices provided by Xerieh:
 
 - SL1 NG+7
 
-- SL1 & CoC No Rolling/ Blocking/Parrying/Red Tearstone Ring R
+- SL1 & CoC No Rolling/ Blocking/Parrying/Red Tearstone Ring Ring
 
 - SL1 & CoC +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
 
