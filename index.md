@@ -59,9 +59,8 @@ You can obtain a special role if you are the fastest player in the server to com
 | _Dark Souls III_ | Decc (decc#0001) | [1:34:54](https://www.youtube.com/watch?v=dpZPqGeFn48) |
 | _Bloodborne_ | N/A | N/A |
 
-DeS: Any time quicker than 4:00:00 is valid.
-DS2: Any time quicker than 7:00:00 is valid.
-DS3: Decc did his speedrun prior to the Ringed City DLC. The role is up for grabs for the first person to do all bosses including the aforementioned DLC in less than 2:10:00.
-BB: Any time quicker than 4:00:00 is valid.
+Since there is not a time set for DeS, DS2 or BB, any time quicker than 4:00:00 for DeS and BB will count. For DS2, any time quicker than 7:00:00 will count.
+
+Decc did his speedrun prior to the Ringed City DLC. The role is up for grabs for the first person to do all bosses including the aforementioned DLC in less than 2:10:00.
 
 > These are 100% independent from legendary runs. Check [this link](http://speedsouls.com/Main_Page) for help and information on speedrunning.
