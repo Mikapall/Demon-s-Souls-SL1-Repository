@@ -13,77 +13,52 @@ layout: default
  
 Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame as to what a SL1 runs requires. There is also not a big difference either on that aspect for _Dark Souls II_ and the _Scholar of the First Sin_ edition, but most runners prefer to use the original _Dark Souls II_.
 
-## DS1 & DS1:R - SL1 Requirements
+## BB - BL4 Requirements
 
-**For SL1 Champion we require all bosses to be defeated with screenshots/videos of the following:**
+**For SL1 Good Hunter we require all bosses to be defeated with screenshots/videos of the following:**
 
-* Stray Demon - Empty arena
-* Taurus Demon - Empty arena
-* Bell Gargoyles - Empty arena
-* Capra Demon - Key to the Depths / Empty Arena
-* Gaping Dragon - Key to Blighttown / Empty arena
-* Demon Firesage - Demon's Catalyst / Empty arena
-* Centipede Demon - Empty arena
-* Black Dragon Kalameet - Calamity Ring / Empty arena
-* All Boss Souls and/or their bonfires/empty arenas
+* Every Boss lamp
+* Stats
+* Video of Moon Presence kill / Screenshot of your player character waking up in the Clinic (NG+) with 230k blood echoes.
+  - It is recommendable, because of this, to start the final fight with 0 blood echoes (preventing problems in the remote case you are able to one-shot it all).
 
-**As long as the run allows it, cheesing Bed of Chaos and Ceaseless Discharge is fine.**
+## BB - BL4 Resources
 
-_If you used any boss souls for items, show them as well for proof. It is strongly recommended to not use boss souls just for souls, as you are effectively destroying your own SL1 proof._
+[Video by ymfah](https://www.youtube.com/watch?v=AzFks3VhU3A) showing tricks, routing and where to find upgrade materials.
 
+[Easy Chalice Gems.](https://drive.google.com/file/d/1ffQccio5iZzxVDJxdCoSKO4FfMqhSmOo/view)
 
-## DS1 & DS1:R - SL1 Resources
+[Parallax's Opinions on Bosses During BL4 NG+6:](https://www.reddit.com/r/bloodborne/comments/6xw068/every_boss_in_the_game_beaten_at_level_4_in_new/)
 
-Generally, Reinforced Club is your main weapon for most if not all the game. Eventually it is recommended to upgrade it to a Chaos Reinforced Club -and possibly a Lightning Reinforced Club if you don't want to or can't use Blacksmith Giant Hammer-. Using fire damage for early game and then upgrade to Chaos is fine. Mentioned before, Blacksmtih Giant Hammer is the other most recommended weapon, so alternating between them based on boss resistances is optimal.
+## Acceptable BL4 Great One Criteria
 
-[Parallax's General SL1 Route and Advice](https://docs.google.com/document/d/10deHvKRrM6seFxEsE7evS8w_wnYR_GOlHaeiU2YCRsI)
+- BL4 NG+6
 
-[Very good video guide](https://www.youtube.com/watch?v=km6y1bDr52o) showing routing, weapons and other stuff (even if you don’t use pyromancies this video is useful).
+- BL4 NG+ & No Chalice Dungeon Gems or Runes
 
-[In-depth guide](https://docs.google.com/document/d/1w5J7YqV6Tl60uGN290Uqk0yLFfjojNzskgfOyMjbbeQ) by Reddit user /r/Ridiculisk1. It includes routing and individual boss advice.
+- BL4 No Rolling/Quickstepping/Blocking/Beast Blood Pellets
+  - Parrying is allowed, especially versus Gehrman.
 
-[SL1 boss advice for some specific bosses.](https://www.reddit.com/r/onebros/comments/5raro1/get_rekt_gwyn)
+- BL4 Perma-Death
+  - Record the full run.
+  
+- BL4 Not Hit run & Any%
+  - Record the full run.
 
-## Acceptable SL1 Legend Criteria
+- BL4 Blindfolded
+  -  Not allowed to see the screen, you need a clear webcam stream to prove.
+  
+- BL4 +0 Weapons
 
-- SL1 NG+6
-
-- SL1 No Rolling/Blocking/Parrying
-
-- SL1 +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
-
-- SL1 All Bosses Speedrun
+- BL4 All Bosses Speedrun
   - Check the [Index](./index.md) section on Speedruns.
-  - 'Artorias of the Abyss' DLC is mandatory.
+  - ‘The Old Hunters’ DLC is mandatory.
   
-- SL1 Perma-Death
-  - Record the full run.
-  - Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
-  
-- SL1 Not Hit & Any%
-  - Record the full run.
-  - Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
-  
-- SL1 Zero Weapon Durability _(Also called broken weapon run.)_
+- BL4 Fist only
 
-- SL1 Blindfolded
-  - Not allowed to see the screen, you need a clear webcam stream to prove.
+- BL4 Torch only
+  - - Either Torch counts.
   
-- SL1 Fist only
-  - It's recommended that Four Kings should be beaten with a different legendary challenge.
-  - Red Tear Stone Ring and Power Within are allowed for the fight (if doing it Fist only).
-  
-- SL1 Caestus only
-  - Red Tear Stone Ring and Power Within are allowed versus Four Kings.
-  
-- SL1 Broken Straight Sword only
-  - Red Tear Stone Ring and Power Within are allowed versus Four Kings.
-  
-- SL1 Straight Sword Hilt only
-  - Red Tear Stone Ring and Power Within are allowed versus Four Kings.
-  
-## SL1 Legend Banned Equipment
+## BL4 Great One Banned Equipment
 
-* Red Tear Stone Ring on base NG runs. It's too strong.
-
-* Offensive Pyromancy spells. Power Within, Great Combustion, Black Flame, Fireorb and Great Chaos Fireball are all too strong.
+* Chalice Dungeon gems or Runes in base NG. They're too strong.
