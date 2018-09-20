@@ -44,18 +44,18 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 - SL1 Zero Weapon Durability _(Also called broken weapon run.)_
 
-## SL1 Monumental Banned Equipment and Strategies
+## SL1 Banned Equipment and Strategies
 
-* Morion Blade on base NG. It's too strong.
+* Morion Blade. It's too strong. It is allowed, however and for now, to be used against Allant on higher NGs.
+
+* Clever Rat Ring on base NG. It's too strong.
 
 * Second Chance. It's cheap, granting a second opportunity in the middle of a fight.
 
-* Thief Ring. It's too strong on bosses like Old Hero or Storm King (you are free to use when getting to the boss fog).
+* Biorr of the Twin Fangs against Penetrator. Just don't unlock his cell in 1-2.
 
-* Clever Rat Ring on base NG. It's too strong.
+* Thief Ring. It's too strong on bosses like Old Hero or Storm King (you are free to use when getting to the boss fog).
 
 * Offensive spells/miracles (which you can hardly cast). 
 
 * Multiple cheese tactics or exploits exclusive to this game. In example, using the bow glitch for Maneaters (shooting through the fog) or killing Vanguard (4-1) out of his aggro range.
-
-* Biorr of the Twin Fangs against Penetrator. Just don't unlock his cell in 1-2.
