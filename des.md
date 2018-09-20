@@ -44,7 +44,7 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 - SL1 Zero Weapon Durability _(Also called broken weapon run.)_
 
-## SL1 Banned Equipment and Strategies
+## SL1 Monumental Banned Equipment and Strategies
 
 * Morion Blade. It's too strong. It is allowed, however and for now, to be used against Allant on higher NGs.
 
