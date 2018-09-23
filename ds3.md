@@ -36,7 +36,7 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 - Dragonslayer's Axe (Raw): Usually mentioned as _DSA_. Extremely good weapon, you can use this on almost everything.
 
-- Millwood Battle Axy (Heavy): Similar to DSA, but with physical damage instead of split. Good for bosses resistant to lightning but not difficult to damage. Can be used together with Lothric War Banner.
+- Millwood Battle Axe (Heavy): Similar to DSA, but with physical damage instead of split. Good for bosses resistant to lightning but not difficult to damage. Can be used together with Lothric War Banner.
 
 - Broadsword (Raw and Fire): Acts like a faster Millwood Battle Axe, but with less damage. Good for general damage on fast bosses. Raw allows poison application. Can be used together with Lothric War Banner.
 
