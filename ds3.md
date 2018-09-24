@@ -48,20 +48,17 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 
 ## Acceptable SL1 Legend Criteria
-> _CoC_ means you have to be in the _Company of Champions_ covenant. Ignore this requirement for Darklurker since it is not possible to fight it without changing covenant.
 
 - SL1 NG+7
 - SL1 No Rolling/Blocking/Parrying
 - SL1 +0 Weapons/No Infusions/No Bleed/No Toxic/No Poison/No Frost/No Dark Hand
-- SL1 All Bosses Speedrun
-  - Check the [Index](./index.md) section on Speedruns.
-  - 'Ashes of Ariandel' and 'The Ringed City' DLCs are mandatory.
-- SL1 Perma-Death
+- SL1 NG+ Broken Weapon + No Bleed/No Toxic/No Poison/No Frost/No Dark Hand
+- SL1 Not Hit & Any%
   - Record the full run.
-  - Check the banned equipment page for more info on what is allowed for this run.
-- SL1 & CoC Not Hit & Any%
-  - Record the full run.
-- SL1 NG+ Zero Weapon Durability _(Also called broken weapon run.)_ + No Bleed/No Toxic/No Poison/No Frost/No Dark Hand
+- SL1 Torch only
+  - It's recommended that Iudex, Deacons and Yhorm should be beaten with a different legendary challenge.
+- SL1 Soldering Iron only
+  - It's recommended that Yhorm should be beaten with a different legendary challenge.
 - SL1 -80 NG+
   - This is SL-80, obtained by using exploits or cheats with the result of having only 1 point in every stat.
 - SL1 Blindfolded
@@ -70,10 +67,13 @@ _If you used any boss souls for items, show them as well for proof. It is strong
   - It's recommended that Yhorm, Soul of Cinder, Halflight, Gravetender, Deacons and Wolnir should be beaten with a different legendary challenge.
 - SL1 Fist only
   - It's recommended that Soul of Cinder, Halflight, Gravetender, Deacons and Wolnir should be beaten with a different legendary challenge.
-- SL1 Torch only
-  - It's recommended that Iudex, Deacons and Yhorm should be beaten with a different legendary challenge.
-- SL1 Soldering Iron only
-  - It's recommended that Yhorm should be beaten with a different legendary challenge.
+- SL1 All Bosses Speedrun
+  - Check the [Index](./index.md) section on Speedruns.
+  - 'Ashes of Ariandel' and 'The Ringed City' DLCs are mandatory.
+- SL1 Perma-Death
+  - Record the full run.
+  - Check the banned equipment page for more info on what is allowed for this run.
+
   
 ## SL1 Legend Banned Equipment
 
