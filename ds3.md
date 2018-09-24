@@ -35,23 +35,14 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 **Recommended Equipment:**
 
 - Dragonslayer's Axe (Raw): Usually mentioned as _DSA_. Extremely good weapon, you can use this on almost everything.
-
 - Millwood Battle Axe (Heavy): Similar to DSA, but with physical damage instead of split. Good for bosses resistant to lightning but not difficult to damage. Can be used together with Lothric War Banner.
-
 - Broadsword (Raw and Fire): Acts like a faster Millwood Battle Axe, but with less damage. Good for general damage on fast bosses. Raw allows poison application. Can be used together with Lothric War Banner.
-
 - Flamberge (Sharp): High stagger potential, good damage and bleed status.
-
 - Bandit's Knife (Blood): Bleed status.
-
 - Profaned Greatsword: Charged R2 cheese on some bosses, notably Halflight.
-
 - Crossbows: Mostly for punishing, cheesy tactics.
-
 - Storyteller's Staff: Poison scales with max health. Tons of damage. It is not allowed against bosses.
-
 - Rotten Ghru Dagger (Poison): Produces poisoned status extremely quick.
-
 - Dagger (Deep, Fire, Sharp): Good critical damage.
 
 
@@ -87,29 +78,18 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 ## SL1 Legend Banned Equipment
 
 - Tears of Denial. Promotes error-prone combat, avoiding death via equipment is already simple. As said, allowed for Perma-Death runs.
-
 - Morion Blade. It's too strong. However this is allowed on Perma-Death runs.
-
 - Storm Ruler against Yhorm. It's too strong.
-
 - Siegward versus Yhorm is unacceptable.
-
 - Storyteller's Staff against bosses. The Weapon Art makes boss fights way too passive with little risk.
 
 ## Runs that are not considered challenging enough for SL1 Legend
 
 - Any class that is not Deprived. Not SL1.
-
 - SL1 First Person. It's just as playable.
-
 - SL1 No Armour. Since you get 1 or 2-shot by most things anyway this alone wouldn't really be a challenge.
-
 - SL1 No Healing. See reasons above.
-
 - SL1 [insert weapon].  If the weapon is a very bad weapon it could be considered for Legend Run. If the weapon is something decent like the Astora Straight Sword... then no, it shouldn't count for Legend run.
-
 - SL1 NG+ Dark Hand. Not weak enough.
-
 - SL1 Keyboard and Mouse. Since some people prefer to play on Keyboard and Mouse, this doesn't count.
-
 - SL1 No Weapon buffs - Since most of the damage comes from Rings and not Resins/Bundles/Spells especially against the DLC bosses, not using Weapon buffs isn't enough for Legend runs (and besides, you can just bleed bosses with a blood infused bandit knife and kill them really fast).
