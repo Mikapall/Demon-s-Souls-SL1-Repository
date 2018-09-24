@@ -45,7 +45,7 @@ Advices provided by Xerieh:
 - SL1 & CoC Broken Ladle only
 - SL1 & CoC Broken Thief Sword only
 - SL1 & CoC Broken Straight Sword only
-- SL1 & CoC Zero Weapon Durability _(Also called broken weapon run.)_
+- SL1 & CoC Broken Weapon
 - SL1 & CoC Perma-Death
   - Record the full run.
 - SL1 & CoC Not Hit & Any%
