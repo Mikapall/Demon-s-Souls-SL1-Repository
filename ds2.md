@@ -61,5 +61,4 @@ Advices provided by Xerieh:
 ## SL1 Legend Banned Equipment
 
 * Red Tearstone Ring on base NG. Makes It's too strong.
-
 * Brightbug on base NG.
