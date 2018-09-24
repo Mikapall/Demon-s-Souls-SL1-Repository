@@ -27,7 +27,7 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 - SL1 No Rolling/Blocking/Parrying
 - SL1 +0 Weapons, Normal Upgrade Path, No Bleed, No Toxic, No Poison
 - SL1 Fist only
-- SL1 Zero Weapon Durability _(Also called broken weapon run.)_
+- SL1 Broken Weapon
 - SL1 Blindfolded
   - Not allowed to see the screen, you need a clear webcam stream to prove. 
 - SL1 Deathless
