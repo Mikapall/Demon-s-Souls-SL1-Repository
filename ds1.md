@@ -49,7 +49,7 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
 - SL1 NG+6
 - SL1 No Rolling/Blocking/Parrying
 - SL1 +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
-- SL1 Zero Weapon Durability _(Also called broken weapon run.)_
+- SL1 Broken Weapon
 - SL1 Caestus only
   - Red Tear Stone Ring and Power Within are allowed versus Four Kings.
 - SL1 Broken Straight Sword only
@@ -67,7 +67,6 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
 - SL1 Not Hit & Any%
   - Record the full run.
   - Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
-
 - SL1 Fist only
   - It's recommended that Four Kings should be beaten with a different legendary challenge.
   - Red Tear Stone Ring and Power Within are allowed for the fight (if doing it Fist only).
