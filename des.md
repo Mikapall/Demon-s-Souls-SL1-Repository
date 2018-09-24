@@ -26,16 +26,17 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 - SL1 NG+5
 - SL1 No Rolling/Blocking/Parrying
 - SL1 +0 Weapons, Normal Upgrade Path, No Bleed, No Toxic, No Poison
+- SL1 Fist only
+- SL1 Zero Weapon Durability _(Also called broken weapon run.)_
+- SL1 Blindfolded
+  - Not allowed to see the screen, you need a clear webcam stream to prove. 
 - SL1 Deathless
   - Record the full run. 
   - Ignore dying to Journey to the Nexus’ Dragon God. 
 - SL1 Not Hit
   - Record the full run. 
   - Ignore dying to Journey to the Nexus’ Dragon God.
-- SL1 Blindfolded
-  - Not allowed to see the screen, you need a clear webcam stream to prove. 
-- SL1 Fist only
-- SL1 Zero Weapon Durability _(Also called broken weapon run.)_
+
 
 ## SL1 Monumental Banned Equipment and Strategies
 
