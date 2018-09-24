@@ -34,16 +34,16 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 **Recommended Equipment:**
 
-- Dragonslayer's Axe (Raw): Usually mentioned as _DSA_. Extremely good weapon, you can use this on almost everything.
-- Millwood Battle Axe (Heavy): Similar to DSA, but with physical damage instead of split. Good for bosses resistant to lightning but not difficult to damage. Can be used together with Lothric War Banner.
-- Broadsword (Raw and Fire): Acts like a faster Millwood Battle Axe, but with less damage. Good for general damage on fast bosses. Raw allows poison application. Can be used together with Lothric War Banner.
-- Flamberge (Sharp): High stagger potential, good damage and bleed status.
-- Bandit's Knife (Blood): Bleed status.
-- Profaned Greatsword: Charged R2 cheese on some bosses, notably Halflight.
-- Crossbows: Mostly for punishing, cheesy tactics.
-- Storyteller's Staff: Poison scales with max health. Tons of damage. It is not allowed against bosses.
-- Rotten Ghru Dagger (Poison): Produces poisoned status extremely quick.
-- Dagger (Deep, Fire, Sharp): Good critical damage.
+- **Dragonslayer's Axe (Raw):** Usually mentioned as _DSA_. Extremely good weapon, you can use this on almost everything.
+- **Millwood Battle Axe (Heavy):** Similar to DSA, but with physical damage instead of split. Good for bosses resistant to lightning but not difficult to damage. Can be used together with Lothric War Banner.
+- **Broadsword (Raw and Fire):** Acts like a faster Millwood Battle Axe, but with less damage. Good for general damage on fast bosses. Raw allows poison application. Can be used together with Lothric War Banner.
+- **Flamberge (Sharp):** High stagger potential, good damage and bleed status.
+- **Bandit's Knife (Blood):** Bleed status.
+- **Profaned Greatsword:** Charged R2 cheese on some bosses, notably Halflight.
+- **Crossbows:** Mostly for punishing, cheesy tactics.
+- **Storyteller's Staff:** Poison scales with max health. Tons of damage. It is not allowed against bosses.
+- **Rotten Ghru Dagger (Poison):** Produces poisoned status extremely quick.
+- **Dagger (Deep, Fire, Sharp):** Good critical damage.
 
 
 
