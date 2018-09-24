@@ -33,32 +33,23 @@ Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame
 ## Acceptable BL4 Great One Criteria
 
 - BL4 NG+6
-
 - BL4 NG+ & No Chalice Dungeon Gems or Runes
-
 - BL4 No Rolling/Quickstepping/Blocking/Beast Blood Pellets
   - Parrying is allowed, especially versus Gehrman.
-
 - BL4 Perma-Death
   - Record the full run.
-  
 - BL4 Not Hit run & Any%
   - Record the full run.
-
 - BL4 Blindfolded
   -  Not allowed to see the screen, you need a clear webcam stream to prove.
-  
 - BL4 +0 Weapons
-
 - BL4 All Bosses Speedrun
   - Check the [Index](./index.md) section on Speedruns.
   - ‘The Old Hunters’ DLC is mandatory.
-  
 - BL4 Fist only
-
 - BL4 Torch only
   - Either Torch counts.
-  
+ 
 ## BL4 Great One Banned Equipment
 
 * Chalice Dungeon gems or Runes in base NG. They're too strong.
