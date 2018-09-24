@@ -74,5 +74,4 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
 ## SL1 Legend Banned Equipment
 
 * Red Tear Stone Ring on base NG runs. It's too strong.
-
 * Offensive Pyromancy spells. Power Within, Great Combustion, Black Flame, Fireorb and Great Chaos Fireball are all too strong.
