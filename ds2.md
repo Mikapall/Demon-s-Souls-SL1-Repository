@@ -40,12 +40,14 @@ Advices provided by Xerieh:
 > _CoC_ means you have to be in the _Company of Champions_ covenant. Ignore this requirement for Darklurker since it is not possible to fight it without changing covenant.
 
 - SL1 NG+7
-- SL1 & CoC No Rolling/ Blocking/Parrying/Red Tearstone Ring Ring
+
 - SL1 & CoC +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
 - SL1 & CoC Broken Ladle only
 - SL1 & CoC Broken Thief Sword only
 - SL1 & CoC Broken Straight Sword only
 - SL1 & CoC Broken Weapon
+- SL1 & CoC No Rolling/ Blocking/Parrying/Red Tearstone Ring
+  - Red Tearstone Ring is banned on base NG runs. Allowed on higher NG runs.
 - SL1 & CoC Perma-Death
   - Record the full run.
 - SL1 & CoC Not Hit & Any%
@@ -62,5 +64,4 @@ Advices provided by Xerieh:
   
 ## SL1 Legend Banned Equipment
 
-* Red Tearstone Ring on base NG. Makes It's too strong.
 * Brightbug on base NG.
