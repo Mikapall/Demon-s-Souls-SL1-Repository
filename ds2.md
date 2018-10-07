@@ -17,7 +17,8 @@ Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame
 
 **For SL1 Champion we require all bosses to be defeated with screenshots/videos of the following:**
 
-* Aldia - Defeat Dialogue AND the visible choice to pick _'Leave Throne'_.
+* Aldia - Defeat Dialogue AND the visible choice to pick _'Leave Throne'_
+* Prowling Magus and Congregation - Empty arena
 * Ancient Dragon - Empty arena
 * Cerah, Varg and Graverobber - Flower Skirt / Empty Arena
 * Blue Smelter Demon - Pharros Mask / Aged Smelter Sword / Empty Arena
