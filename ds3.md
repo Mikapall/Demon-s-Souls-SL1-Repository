@@ -41,7 +41,7 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 - **Bandit's Knife (Blood):** Bleed status.
 - **Profaned Greatsword:** Charged R2 cheese on some bosses, notably Halflight.
 - **Crossbows:** Mostly for punishing, cheesy tactics.
-- **Storyteller's Staff:** Poison scales with max health. Tons of damage. It is not allowed against bosses.
+- **Storyteller's Staff:** Poison scales with max health. Tons of damage.
 - **Rotten Ghru Dagger (Poison):** Produces poisoned status extremely quick.
 - **Dagger (Deep, Fire, Sharp):** Good critical damage.
 
