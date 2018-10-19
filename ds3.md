@@ -51,10 +51,11 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 - SL1 NG+7
 - SL1 No Rolling/Blocking/Parrying
-- SL1 +0 Weapons/No Infusions/No Bleed/No Toxic/No Poison/No Frost/No Dark Hand
 - SL1 NG+ Broken Weapon + No Bleed/No Toxic/No Poison/No Frost/No Dark Hand
 - SL1 Not Hit & Any%
   - Record the full run.
+- SL1 +0 Weapons/No Infusions/No Bleed/No Toxic/No Poison/No Frost/No Dark Hand
+  - Offensive pyromancies are not allowed for this run. Beats the purpose of doing little damage.
 - SL1 Torch only
   - It's recommended that Iudex, Deacons and Yhorm should be beaten with a different legendary challenge.
 - SL1 Soldering Iron only
