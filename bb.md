@@ -13,6 +13,8 @@ layout: default
  
 Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame as to what a SL1 runs requires. There is also not a big difference either on that aspect for _Dark Souls II_ and the _Scholar of the First Sin_ edition, but most runners prefer to use the original _Dark Souls II_.
 
+**Please remember to check necessary global requirements (e.g. recording for a legend run). Read the Index page.**
+
 ## BB - BL4 Requirements
 
 **For BL4 Good Hunter we require all bosses to be defeated with screenshots/videos of the following:**
