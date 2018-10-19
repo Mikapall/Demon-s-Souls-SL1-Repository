@@ -42,7 +42,6 @@ Advices provided by Xerieh:
 
 - SL1 NG+7
 
-- SL1 & CoC +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
 - SL1 & CoC Broken Ladle only
 - SL1 & CoC Broken Thief Sword only
 - SL1 & CoC Broken Straight Sword only
@@ -57,6 +56,9 @@ Advices provided by Xerieh:
   - Not allowed to see the screen, you need a clear webcam stream to prove.
 - SL1 & CoC Fist only
   - Vanquisher's Seal is not allowed. Show your rings / equipment screen after killing the bosses.
+- SL1 & CoC +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
+  - Red Tearstone Ring is not allowed on this run. Beats the whole purpose of doing little damage.
+  - Offensive pyromancies are not allowed on this run. Beats the whole purpose of doing little damage.
 - SL1 All Bosses Speedrun
   - Check the [Index](./index.md) section on Speedruns.
   - 'The Lost Crowns' DLCs are mandatory.
@@ -66,3 +68,4 @@ Advices provided by Xerieh:
 ## SL1 Legend Banned Equipment
 
 * Brightbug on base NG.
+* Offensive Pyromancies are not allowed for broken 
