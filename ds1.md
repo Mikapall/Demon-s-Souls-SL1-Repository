@@ -72,7 +72,7 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
 - SL1 Fist only
   - It's recommended that Four Kings should be beaten with a different legendary challenge.
   - Red Tear Stone Ring and Power Within are allowed for the fight (if doing it Fist only).
-
+  - Dragon Form is not allowed since it beats the purpose of the run with 300-400dmg per hit.
   
 ## SL1 Legend Banned Equipment
 
