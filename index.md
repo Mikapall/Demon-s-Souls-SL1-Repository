@@ -53,7 +53,7 @@ You can obtain a special role if you are the fastest player in the server to com
 #### Speediest Players Hall of Fame
 
 
-| _Demon's Souls_ | Unsafekibble716(unsafekibble716#1208) | [2:19:54](https://www.youtube.com/watch?v=iziZoq3-cFs)  |
+| _Demon's Souls_ | Unsafekibble716 (unsafekibble716#1208) | [2:19:54](https://www.youtube.com/watch?v=iziZoq3-cFs)  |
 | _Dark Souls I_ | Evoryn (Evoryn#4281) | [3:48:37](https://www.twitch.tv/videos/284101512) - Remastered  |
 | _Dark Souls II_ | N/A | N/A |
 | _Dark Souls III_ | Decc (decc#0001) | [1:34:54](https://www.youtube.com/watch?v=dpZPqGeFn48) |
