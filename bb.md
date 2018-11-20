@@ -7,11 +7,9 @@ layout: default
 
  * [Index](./index.md).
  * [Demon's Souls](./des.md).
- * [Dark Souls I or Dark Souls I: Remastered](./ds1.md).
+ * [Dark Souls or Dark Souls: Remastered](./ds1.md).
  * [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.md).
  * [Dark Souls III](./ds3.md).
- 
-Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame as to what a SL1 runs requires. There is also not a big difference either on that aspect for _Dark Souls II_ and the _Scholar of the First Sin_ edition, but most runners prefer to use the original _Dark Souls II_.
 
 **Please remember to check necessary global requirements (e.g. recording for a legend run). Read the Index page.**
 
@@ -44,13 +42,10 @@ Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame
   - Parrying is allowed, especially versus Gehrman.
 - BL4 Perma-Death
   - Record the full run.
-- BL4 Not Hit run & Any%
+- BL4 No Hit run & Any%
   - Record the full run.
 - BL4 Blindfolded
   -  Not allowed to see the screen, you need a clear webcam stream to prove.
-- BL4 All Bosses Speedrun
-  - Check the [Index](./index.md) section on Speedruns.
-  - ‘The Old Hunters’ DLC is mandatory.
  
 ## BL4 Great One Banned Equipment
 

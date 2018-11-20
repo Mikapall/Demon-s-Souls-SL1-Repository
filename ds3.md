@@ -7,11 +7,9 @@ layout: default
 
  * [Index](./index.md).
  * [Demon's Souls](./des.md).
- * [Dark Souls I or Dark Souls I: Remastered](./ds1.md).
+ * [Dark Souls or Dark Souls: Remastered](./ds1.md).
  * [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.md).
  * [Bloodborne](./bb.md).
- 
-Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame as to what a SL1 runs requires. There is also not a big difference either on that aspect for _Dark Souls II_ and the _Scholar of the First Sin_ edition, but most runners prefer to use the original _Dark Souls II_.
 
 **Please remember to check necessary global requirements (e.g. recording for a legend run). Read the Index page.**
 
@@ -53,10 +51,10 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 - SL1 NG+7
 - SL1 No Rolling/Blocking/Parrying
-- SL1 NG+ Broken Weapon + No Bleed/No Toxic/No Poison/No Frost/No Dark Hand
-- SL1 Not Hit & Any%
+- SL1 NG+ Broken Weapon + No Bleed/No Toxic/No Poison/No Frost
+- SL1 No Hit & Any%
   - Record the full run.
-- SL1 +0 Weapons/No Infusions/No Bleed/No Toxic/No Poison/No Frost/No Dark Hand
+- SL1 +0 Weapons/No Infusions/No Bleed/No Toxic/No Poison/No Frost
   - Offensive pyromancies are not allowed for this run. Beats the purpose of doing little damage.
 - SL1 Torch only
   - It's recommended that Iudex, Deacons and Yhorm should be beaten with a different legendary challenge.
@@ -70,9 +68,6 @@ _If you used any boss souls for items, show them as well for proof. It is strong
   - It's recommended that Yhorm, Soul of Cinder, Halflight, Gravetender, Deacons and Wolnir should be beaten with a different legendary challenge.
 - SL1 Fist only
   - It's recommended that Soul of Cinder, Halflight, Gravetender, Deacons and Wolnir should be beaten with a different legendary challenge.
-- SL1 All Bosses Speedrun
-  - Check the [Index](./index.md) section on Speedruns.
-  - 'Ashes of Ariandel' and 'The Ringed City' DLCs are mandatory.
 - SL1 Perma-Death
   - Record the full run.
   - Check the banned equipment page for more info on what is allowed for this run.
@@ -81,7 +76,7 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 ## SL1 Legend Banned Equipment
 
 - Tears of Denial. Promotes error-prone combat, avoiding death via equipment is already simple. As said, allowed for Perma-Death runs.
-- Morion Blade. It's too strong. However this is allowed on Perma-Death runs.
+- Morion Blade and Dark Hand. Unobtainable at SL1.
 - Storm Ruler against Yhorm. It's too strong.
 - Siegward versus Yhorm is unacceptable.
 - Storyteller's Staff against bosses. The Weapon Art makes boss fights way too passive with little risk.

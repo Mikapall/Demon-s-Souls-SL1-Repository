@@ -6,12 +6,10 @@ layout: default
 > Roles are obtainable for all Soulsborne games. Click the list below to go to the different game guidelines (or Index).
 
  * [Index](./index.md).
- * [Dark Souls I or Dark Souls I: Remastered](./ds1.md).
+ * [Dark Souls or Dark Souls: Remastered](./ds1.md).
  * [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.md).
  * [Dark Souls III](./ds3.md).
  * [Bloodborne](./bb.md).
- 
-Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame as to what a SL1 runs requires. There is also not a big difference either on that aspect for _Dark Souls II_ and the _Scholar of the First Sin_ edition, but most runners prefer to use the original _Dark Souls II_.
 
 **Please remember to check necessary global requirements (e.g. recording for a legend run). Read the Index page.**
 
@@ -35,7 +33,7 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 - SL1 Deathless
   - Record the full run. 
   - Ignore dying to Journey to the Nexus’ Dragon God. 
-- SL1 Not Hit
+- SL1 No Hit
   - Record the full run. 
   - Ignore dying to Journey to the Nexus’ Dragon God.
 

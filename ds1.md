@@ -11,7 +11,7 @@ layout: default
  * [Dark Souls III](./ds3.md).
  * [Bloodborne](./bb.md).
  
-Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame as to what a SL1 runs requires. There is also not a big difference either on that aspect for _Dark Souls II_ and the _Scholar of the First Sin_ edition, but most runners prefer to use the original _Dark Souls II_.
+_Dark Souls I_ and _Dark Souls: Remastered_ are both allowed and have the same requirements.
 
 **Please remember to check necessary global requirements (e.g. recording for a legend run). Read the Index page.**
 
@@ -27,7 +27,7 @@ Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame
 * Demon Firesage - Demon's Catalyst / Empty arena
 * Centipede Demon - Empty arena
 * Black Dragon Kalameet - Calamity Ring / Empty arena
-* All Boss Souls and/or their bonfires/empty arenas
+* All Boss Souls and/or their empty arenas
 
 **As long as the run allows it, cheesing Bed of Chaos and Ceaseless Discharge is fine.**
 
@@ -51,6 +51,7 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
 - SL1 NG+6
 - SL1 No Rolling/Blocking/Parrying
 - SL1 +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
+  - Dark Hand and Blacksmith Giant Hammer are not allowed for this run
 - SL1 Broken Weapon
 - SL1 Caestus only
   - Red Tear Stone Ring and Power Within are allowed versus Four Kings.
@@ -60,13 +61,10 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
   - Red Tear Stone Ring and Power Within are allowed versus Four Kings.
 - SL1 Blindfolded
   - Not allowed to see the screen, you need a clear webcam stream to prove.
-- SL1 All Bosses Speedrun
-  - Check the [Index](./index.md) section on Speedruns.
-  - 'Artorias of the Abyss' DLC is mandatory.
 - SL1 Perma-Death
   - Record the full run.
   - Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
-- SL1 Not Hit & Any%
+- SL1 No Hit & Any%
   - Record the full run.
   - Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
 - SL1 Fist only
@@ -78,3 +76,4 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
 
 * Red Tear Stone Ring on base NG runs. It's too strong.
 * Offensive Pyromancy spells. Power Within, Great Combustion, Black Flame, Fireorb and Great Chaos Fireball are all too strong.
+* Dragon Torso Stone fist weapon. Overpowered for low damage runs, pointless for other challenges.

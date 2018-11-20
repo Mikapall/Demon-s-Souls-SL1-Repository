@@ -7,11 +7,11 @@ layout: default
 
  * [Index](./index.md).
  * [Demon's Souls](./des.md).
- * [Dark Souls I or Dark Souls I: Remastered](./ds1.md).
+ * [Dark Souls or Dark Souls: Remastered](./ds1.md).
  * [Dark Souls III](./ds3.md).
  * [Bloodborne](./bb.md).
  
-Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame as to what a SL1 runs requires. There is also not a big difference either on that aspect for _Dark Souls II_ and the _Scholar of the First Sin_ edition, but most runners prefer to use the original _Dark Souls II_.
+_Dark Souls II_ and the _Scholar of the First Sin_ edition are both allowed and have the same requirements.
 
 **Please remember to check necessary global requirements (e.g. recording for a legend run). Read the Index page.**
 
@@ -24,7 +24,7 @@ Obviously, _Dark Souls I_ and _Dark Souls: Remastered_ have no difference ingame
 * Ancient Dragon - Empty arena
 * Cerah, Varg and Graverobber - Flower Skirt / Empty Arena
 * Blue Smelter Demon - Pharros Mask / Aged Smelter Sword / Empty Arena
-* All Boss Souls and/or their bonfires/empty arenas
+* All Boss Souls and/or their empty arenas
 
 **Vendrick has to be included.**
 
@@ -40,7 +40,7 @@ Advices provided by Xerieh:
 3. You can use Homunculus Mace with the Strength Ring (or Mace if you don't have this ring) for bosses such as Dragonrider (or Twins), Smelter Demons, Mirror Knight, Ruin Sentinels, Skeleton Lords, Fume Knight, and Elana's Velstadt/Skeletons.
 
 ## Acceptable SL1 Legend Criteria
-> _CoC_ means you have to be in the _Company of Champions_ covenant. Ignore this requirement for Darklurker since it is not possible to fight it without changing covenant.
+> _CoC_ means you have to be in the _Company of Champions_ covenant. Ignore this requirement for Darklurker since it is not possible to fight it without being in the Pilgrims of Dark.
 
 - SL1 NG+7
 
@@ -52,7 +52,7 @@ Advices provided by Xerieh:
   - Red Tearstone Ring is banned on base NG runs. Allowed on higher NG runs.
 - SL1 & CoC Perma-Death
   - Record the full run.
-- SL1 & CoC Not Hit & Any%
+- SL1 & CoC No Hit & Any%
   - Record the full run.
 - SL1 Blindfolded
   - Not allowed to see the screen, you need a clear webcam stream to prove.
@@ -61,9 +61,6 @@ Advices provided by Xerieh:
 - SL1 & CoC +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
   - ~~Red Tearstone Ring is not allowed on this run. Beats the whole purpose of doing little damage.~~
   - Offensive pyromancies are not allowed on this run. Beats the whole purpose of doing little damage.
-- SL1 All Bosses Speedrun
-  - Check the [Index](./index.md) section on Speedruns.
-  - 'The Lost Crowns' DLCs are mandatory.
 
 
   
