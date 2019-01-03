@@ -49,7 +49,7 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 ## Acceptable SL1 Legend Criteria
 
-- SL1 NG+7
+- SL1 NG+7 No Bleed/No Toxic/No Poison/No Frost
 - SL1 No Rolling/Blocking/Parrying
 - SL1 NG+ Broken Weapon + No Bleed/No Toxic/No Poison/No Frost
 - SL1 No Hit & Any%
@@ -88,6 +88,6 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 - SL1 No Armour. Since you get 1 or 2-shot by most things anyway this alone wouldn't really be a challenge.
 - SL1 No Healing. See reasons above.
 - SL1 [insert weapon].  If the weapon is a very bad weapon it could be considered for Legend Run. If the weapon is something decent like the Astora Straight Sword... then no, it shouldn't count for Legend run.
-- SL1 NG+ Dark Hand. Not weak enough.
 - SL1 Keyboard and Mouse. Since some people prefer to play on Keyboard and Mouse, this doesn't count.
 - SL1 No Weapon buffs - Since most of the damage comes from Rings and not Resins/Bundles/Spells especially against the DLC bosses, not using Weapon buffs isn't enough for Legend runs (and besides, you can just bleed bosses with a blood infused bandit knife and kill them really fast).
+- SL1 [insert FPS]. We get it, it's not always easy to record video. Sorry.
