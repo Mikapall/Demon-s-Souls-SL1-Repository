@@ -30,7 +30,7 @@ _Dark Souls: Remastered_ and _Dark Souls II: Scholar of the First Sin_ have the 
 
 You have **two** choices in order to show proof:
 
-* Record a video of you showing your character stats, all boss souls and bonfires/empty arenas. This will prove you defeated each of them.
+* Record a video of you showing your character stats and all boss souls/bonfires/empty arenas. This will prove you defeated each of them.
 
 * Make a gallery of **full** screenshots (no cropping or editing will be allowed) of your character stats, all boss souls, and bonfires/empty arenas. This will prove you defeated each of them. See the page for the game you are playing for specific requirements as this varies by game.
 

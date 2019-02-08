@@ -70,12 +70,11 @@ _If you used any boss souls for items, show them as well for proof. It is strong
   - It's recommended that Soul of Cinder, Halflight, Gravetender, Deacons and Wolnir should be beaten with a different legendary challenge.
 - SL1 Perma-Death
   - Record the full run.
-  - Check the banned equipment page for more info on what is allowed for this run.
 
   
 ## SL1 Legend Banned Equipment
 
-- Tears of Denial. Promotes error-prone combat, avoiding death via equipment is already simple. As said, allowed for Perma-Death runs.
+- Tears of Denial. Promotes error-prone combat, avoiding death via equipment is already simple.
 - Morion Blade and Dark Hand. Unobtainable at SL1.
 - Storm Ruler against Yhorm. It's too strong.
 - Siegward versus Yhorm is unacceptable.

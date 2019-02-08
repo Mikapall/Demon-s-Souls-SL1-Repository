@@ -67,4 +67,4 @@ Advices provided by Xerieh:
 ## SL1 Legend Banned Equipment
 
 * Brightbug on base NG.
-* Offensive Pyromancies are not allowed for broken 
+* Offensive Pyromancies are not allowed for low damage runs
