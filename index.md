@@ -5,7 +5,7 @@ layout: default
 # Soulsborne SL1/BL4 Guidelines
 > Roles are obtainable for all Soulsborne games. Click the list below to go to the different game guidelines.
 
- * [Demon's Souls](./des.md).
+ * [Demon's Souls](./des.md) | [Demon's Souls Server Variant](./des-server.md).
  * [Dark Souls or Dark Souls: Remastered](./ds1.md).
  * [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.md).
  * [Dark Souls III](./ds3.html).
