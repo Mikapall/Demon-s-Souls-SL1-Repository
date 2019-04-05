@@ -69,4 +69,4 @@ You can obtain a special role if you are the fastest player in the server to com
 #### Current Speediest Slayer
 
 
-| _Demon's Souls_ | Unsafekibble716 (unsafekibble716#1208) | [2:19:54](https://www.youtube.com/watch?v=iziZoq3-cFs)  |
+| Unsafekibble716 (unsafekibble716#1208) | [2:19:54](https://www.youtube.com/watch?v=iziZoq3-cFs)  |
