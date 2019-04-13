@@ -42,7 +42,7 @@ Advices provided by Xerieh:
 ## Acceptable SL1 Legend Criteria
 > _CoC_ means you have to be in the _Company of Champions_ covenant. Ignore this requirement for Darklurker since it is not possible to fight it without being in the Pilgrims of Dark.
 
-- SL1 NG+7
+- SL1 & CoC NG+7
 
 - SL1 & CoC Broken Ladle only
 - SL1 & CoC Broken Thief Sword only

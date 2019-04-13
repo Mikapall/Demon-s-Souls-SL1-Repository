@@ -79,6 +79,7 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 - Storm Ruler against Yhorm. It's too strong.
 - Siegward versus Yhorm is unacceptable.
 - Storyteller's Staff against bosses. The Weapon Art makes boss fights way too passive with little risk.
+- Prisoner's Chain + Lloyd's Shield Ring at base NG. Allows for too many mistakes to be made safely. Either one is fine, but not both.
 
 ## Runs that are not considered challenging enough for SL1 Legend
 
