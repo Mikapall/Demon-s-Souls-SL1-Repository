@@ -2,6 +2,10 @@
 layout: default
 ---
 
+A comprehensive and community-supported repository on how the Demon's Souls Discord server manages SL1 runs and their numerous challenge variations.
+
+https://discordapp.com/invite/cCSgv4M
+
 ### Banned Criteria
 
 - Any kind of help via summoning players or NPCs is not acceptable. The run will be disqualified because of this. **This is the case for Biorr of the Twin Fangs' help against the Penetrator.**
