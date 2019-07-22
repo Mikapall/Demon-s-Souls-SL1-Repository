@@ -1,7 +1,5 @@
-https://bigsoundlogan.github.io/DS-Discord-SL1-BL4-repository/
+https://bigsoundlogan.github.io/Demon-s-Souls-SL1-Repository/
 
-A comprehensive and community-supported repository on how the Dark Souls Discord server manages SL1/BL4 runs and their numerous variations.
+A comprehensive and community-supported repository on how the Demon's Souls Discord server manages SL1 runs and their numerous challenge variations.
 
-https://discordapp.com/invite/darksouls3
-
-Based on https://weezimonkey.github.io
+https://discordapp.com/invite/cCSgv4M
