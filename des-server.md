@@ -39,7 +39,7 @@ If you are streaming or recording an entire run (start to finish), please provid
 
 - SL1 NG+5
 - SL1 No Rolling/Blocking/Parrying
-- SL1 +0 Weapons, Normal Upgrade Path, No Bleed, No Toxic, No Poison
+- SL1 +0 Weapons, Normal Upgrade Path, No Bleed, No Poison, No Bleed
 - SL1 Fist only
 - SL1 Broken Weapon
 - SL1 Blindfolded
