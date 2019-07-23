@@ -69,7 +69,7 @@ If you are streaming or recording an entire run (start to finish), please provid
 
 ### Speediest Roles
 
-You can obtain a special role if you are the fastest player in the server to complete a SL1 or BL4 run in any of the games -all bosses-. However, if someone beats your time, you will lose the role.
+You can obtain a special role if you are the fastest player in the server to complete a SL1 run. However, if someone beats your time, you will lose the role.
 
 #### Current Speediest Slayer
 
