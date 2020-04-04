@@ -73,6 +73,8 @@ If you are streaming or recording an entire run (start to finish), please provid
 
 You can obtain a special role if you are the fastest player in the server to complete a SL1 run. However, if someone beats your time, you will lose the role.
 
-#### Current Speediest Slayer
+#### Current Speediest Slayer and other runs
 
+| mike_bison (mike_bison
+#3472) | [2:15:48](https://www.youtube.com/watch?v=dGUdHnI6UD4)  |
 | Unsafekibble716 (unsafekibble716#1208) | [2:19:54](https://www.youtube.com/watch?v=iziZoq3-cFs)  |
