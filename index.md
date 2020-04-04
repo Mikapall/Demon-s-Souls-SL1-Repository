@@ -75,6 +75,5 @@ You can obtain a special role if you are the fastest player in the server to com
 
 #### Current Speediest Slayer and other runs
 
-| mike_bison (mike_bison) | [2:15:48](https://www.youtube.com/watch?v=dGUdHnI6UD4)  |
-
+| mike_bison (mike_bison#3742) | [2:15:48](https://www.youtube.com/watch?v=dGUdHnI6UD4)  |
 | Unsafekibble716 (unsafekibble716#1208) | [2:19:54](https://www.youtube.com/watch?v=iziZoq3-cFs)  |
