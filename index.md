@@ -8,13 +8,16 @@ layout: default
 
 ### Banned Criteria
 
-- Any kind of help via summoning players or NPCs is not acceptable. The run will be disqualified because of this. **This is the case for Biorr of the Twin Fangs' help against the Penetrator.**
+- **Every boss must be killed.** A boss can be defined by the sight of a health bar and/or a fog gate (regardless of the need to enter through such). The bosses are: Vanguard*, Phalanx, Tower Knight, Penetrator, False King Allant, Armor Spider, Flamelurker, Dragon God, Fool's Idol, Maneaters, Old Monk, Adjudicator, Old Hero, Storm King, Leechmonger, Dirty Colossus, Maiden Astraea, True King Allant.
+      - Vanguard is a special case if you are interested in speedrunning. Read the corresponding section in such case.
 
-- Unless required by the criteria for a run, it is not allowed to obtain items before it is usually possible. For example, giving yourself a boss weapon as soon as you start a normal SL1 run is unacceptable and will result in a disqualification.
+- Any kind of help via summoning players or NPCs is not acceptable. Every run found breaching this will be disqualified. **This is the case for Biorr of the Twin Fangs' help against the Penetrator.**
+
+- Unless required by the criteria for a run, it is not allowed to obtain items before it is usually possible. For example, using external tools to give yourself a weapon as soon as you start a normal SL1 run is unacceptable and will result in a disqualification.
    - Exceptions: 
      - Ask the moderators for discussion and/or permission if there is the possibility of such.
 
-- Cheating and cheesing during gameplay is strictly not allowed. Turning on iframes, kills outside the bosses' arenas, messing with the stats, breaking the AI so it becomes unable to harm you... Any of this, or anything similar, will result in a disqualification. Please ask if you are uncertain about what is allowed and what isn't.
+- Cheating and cheesing during gameplay is strictly not allowed. Turning on iframes, kills outside the bosses' arenas, messing with the stats, breaking the AI so it kills any challenge... Any of this, or anything similar, will result in a disqualification. Please ask if you are uncertain about what is allowed and what isn't.
 
 ### Proof for SL1 Slayer of Demons
 
@@ -67,13 +70,15 @@ If you are streaming or recording an entire run (start to finish), please provid
    - Offensive magic is allowed on the second pillar of the Dragon God's fight. It is pretty much impossible to get past without sprinting.
    - It is allowed to use Thief's Ring for Old Hero, Armoured Spider and Flamelurker. It is specifically not allowed on Tower Knight.
   
-
-
-### Speediest Roles
+### Speediest Monumental
 
 You can obtain a special role if you are the fastest player in the server to complete a SL1 run. However, if someone beats your time, you will lose the role.
 
-#### Current Speediest Slayer and other runs
+- Runs must have an external timer. This timer will start as soon as the runner is able to control the character in the tutorial, and will stop once the ending cutscene triggers.
+
+- **Vanguard is mandatory** / **Death by tutorial Dragon God is mandatory**
+
+#### Speediest Monumentals
 
 | **1** | **mike_bison (mike_bison#3742)** | [**2:15:48**](https://www.youtube.com/watch?v=dGUdHnI6UD4)  |
 | **2** | Unsafekibble716 (unsafekibble716#1208) | [2:19:54](https://www.youtube.com/watch?v=iziZoq3-cFs)  |
