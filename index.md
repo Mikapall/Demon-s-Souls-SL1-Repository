@@ -45,12 +45,9 @@ If you are streaming or recording an entire run (start to finish), please provid
 
 - SL1 NG+5
 - SL1 +0 Weapons, Normal Upgrade Path, No Bleed, No Poison, No Plague
-- SL1 Fist only
 - SL1 Broken Weapon
 - SL1 No Roll/Block/Parry/Sprint
   - Sprint is not mandatory for this run, it is simply optional. If you are including this handicap, read the *Banned Equipment and Strategies* section for more information.
-- SL1 Blindfolded
-  - Not allowed to see the screen, you need a clear webcam stream to prove. 
 - SL1 Deathless
   - Record the full run. 
   - Ignore dying to Journey to the Nexus’ Dragon God. 
