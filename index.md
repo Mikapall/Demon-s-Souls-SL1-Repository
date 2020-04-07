@@ -10,9 +10,7 @@ layout: default
 
 - **Every boss must be killed.** A boss can be defined by the sight of a health bar and/or a fog gate (regardless of the need to enter through such). The bosses are: Vanguard*, Phalanx, Tower Knight, Penetrator, False King Allant, Armor Spider, Flamelurker, Dragon God, Fool's Idol, Maneaters, Old Monk, Adjudicator, Old Hero, Storm King, Leechmonger, Dirty Colossus, Maiden Astraea, True King Allant.
 
-   - Vanguard is a special case if you are interested in the Slayer run. Read the corresponding section in such case.
-
-   - Vanguard is a special case if you are interested in speedrunning. Read the corresponding section in such case.
+   - Vanguard is a special case if you are interested in the Slayer role or speedrunning. Read the corresponding sections in such cases.
 
 - Any kind of help via summoning players or NPCs is not acceptable. Every run found breaching this will be disqualified. **This is the case for Biorr of the Twin Fangs' help against the Penetrator.**
 
