@@ -10,6 +10,8 @@ layout: default
 
 - **Every boss must be killed.** A boss can be defined by the sight of a health bar and/or a fog gate (regardless of the need to enter through such). The bosses are: Vanguard*, Phalanx, Tower Knight, Penetrator, False King Allant, Armor Spider, Flamelurker, Dragon God, Fool's Idol, Maneaters, Old Monk, Adjudicator, Old Hero, Storm King, Leechmonger, Dirty Colossus, Maiden Astraea, True King Allant.
 
+   - Vanguard is a special case if you are interested in the Slayer run. Read the corresponding section in such case.
+
    - Vanguard is a special case if you are interested in speedrunning. Read the corresponding section in such case.
 
 - Any kind of help via summoning players or NPCs is not acceptable. Every run found breaching this will be disqualified. **This is the case for Biorr of the Twin Fangs' help against the Penetrator.**
@@ -30,7 +32,7 @@ You have **two** choices in order to show proof:
 
 * Make a gallery of **full** screenshots (no cropping or editing will be allowed) of your character stats, all boss souls, and bonfires/empty arenas. This will prove you defeated each of them.
 
-_If you used any boss souls for items, show them as well for proof. It is strongly recommended to not use boss souls just for souls, as you are effectively destroying your own SL1 proof._
+_If you used any boss souls for items, show them as well for proof. It is strongly recommended to not use boss souls just for souls, as you are effectively destroying your own SL1 proof. **Vanguard can be killed in 4-1.**_
 
 
 ### Proof for SL1 Monumental of Demon's Souls
