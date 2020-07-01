@@ -85,6 +85,8 @@ You can obtain a special role if you are the fastest player in the server to com
 
 - A speedrun will start on the tutorial.
 
+- **Emulation and PS3:** In the case speedruns using emulators instead of PS3 appear, they will be categorized differently due to FPS and hardware differences.
+
 - **Vanguard is mandatory** / **Death by tutorial Dragon God is mandatory**
 
 #### Speediest Monumentals
