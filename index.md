@@ -68,7 +68,11 @@ If you are streaming or recording an entire run (start to finish), please provid
 * Clever Rat Ring on regular NG. It's too strong. Allowed on NG+5.
 * Second Chance. It's cheap, granting a second opportunity in the middle of a fight.
 * Thief's Ring and/or Cloak against any boss. As a fact, concealment has the chance of breaking the AI. Whether it is allowed for specific runs or not is up to a case-by-case basis and pertinent discussion.
-* Offensive spells/miracles (which you can hardly cast). 
+* Offensive spells/miracles.
+* Defensive spells such as:
+   - Protection, which trivializes challenges with a 30% defense increase.
+   - Warding, which cheaply trivializes challenges with a 70% defense increase.
+   - Water veil, which cheaply trivializes fire-based challenges with a 45% defense increase.
 * Multiple cheese tactics or exploits exclusive to this game. In example, using the bow glitch for Maneaters (shooting through the fog) or killing Vanguard (4-1) out of his aggro range.
 
 * In the case you are doing a run that includes **No Sprint**:
