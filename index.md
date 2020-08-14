@@ -77,7 +77,7 @@ If you are streaming or recording an entire run (start to finish), please provid
 
 * In the case you are doing a run that includes **No Sprint**:
    - Offensive magic is allowed on the second pillar of the Dragon God's fight. It is pretty much impossible to get past without sprinting.
-   - It is allowed to use Thief's Ring for Old Hero, Armor Spider and Flamelurker. 
+   - It is allowed to use Thief's Ring for Old Hero, Armor Spider. 
    - It is specifically not allowed to use Thief's Ring on Tower Knight.
   
 ### Speediest Monumental
