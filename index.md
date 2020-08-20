@@ -96,7 +96,6 @@ You can obtain a special role if you are the fastest player in the server to com
 #### Speediest Monumentals
 
 | **1** | **rkzhao (rkzhao#0955)** | [**1:36:32**](https://youtu.be/-iRAgIuGGo4)  |
-| **2** | mike_bison (mike_bison#3742)*&* | [**2:15:48**](https://www.youtube.com/watch?v=dGUdHnI6UD4)  |
-| **3** | Unsafekibble716 (unsafekibble716#1208)*&* | [2:19:54](https://www.youtube.com/watch?v=iziZoq3-cFs)  |
+| **2** | Unsafekibble716 (unsafekibble716#1208)*&* | [2:19:54](https://www.youtube.com/watch?v=iziZoq3-cFs)  |
 
 *& Runs done under outdated specifications.*
