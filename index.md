@@ -11,10 +11,14 @@ layout: default
 - **Every boss must be killed.** A boss can be defined by the sight of a health bar and/or a fog gate (regardless of the need to enter through such). The bosses are: Vanguard*, Phalanx, Tower Knight, Penetrator, False King Allant, Armor Spider, Flamelurker, Dragon God, Fool's Idol, Maneaters, Old Monk, Adjudicator, Old Hero, Storm King, Leechmonger, Dirty Colossus, Maiden Astraea, True King Allant.
 
    - Vanguard falls under different specifications depending on which run you are attempting. Make sure to **fully** read the section you're interested in.
+   
+- Multiple cheese tactics or exploits exclusive to this game. In example, using the bow glitch for Maneaters (shooting through the fog) or killing Vanguard (4-1) out of his aggro range.
+   
+   - In terms of glitches, it is allowed to dupe as it simply cuts down farming time. Remake specific glitches like the infamous coin level up glitch is obviously not allowed.
 
 - Any kind of help via summoning players or NPCs is not acceptable. Every run found breaching this will be disqualified. **This is the case for Biorr of the Twin Fangs' help against the Penetrator.**
 
-- Unless required by the specifications of a run, it is not allowed to obtain items before it is usually possible. For example, using external tools to give yourself a weapon as soon as you start in the Nexus is unacceptable and will result in a disqualification.
+- Unless required by the specifications of a run, it is not allowed to obtain items before it is usually possible. For example, using external tools/debug to give yourself a weapon as soon as you start in the Nexus is unacceptable and will result in a disqualification.
    - Exceptions: 
      - Ask the moderators for discussion and/or permission if there is the possibility of such.
 
@@ -73,7 +77,6 @@ If you are streaming or recording an entire run (start to finish), please provid
    - Protection, which trivializes challenges with a 30% defense increase.
    - Warding, which cheaply trivializes challenges with a 70% defense increase.
    - Water veil, which cheaply trivializes fire-based challenges with a 45% defense increase.
-* Multiple cheese tactics or exploits exclusive to this game. In example, using the bow glitch for Maneaters (shooting through the fog) or killing Vanguard (4-1) out of his aggro range.
 
 * In the case you are doing a run that includes **No Sprint**:
    - Offensive magic is allowed on the second pillar of the Dragon God's fight. It is pretty much impossible to get past without sprinting.
@@ -87,11 +90,9 @@ You can obtain a special role if you are the fastest player in the server to com
 - Time of completion will be dictated by RTA (Real-Time Attack). Experimentation has found IGT (Ingame Time) to be inconsistent, hard to verify, and forces runners to be on the Private Server in order to provide a full HH:MM:SS time.
    - Due to this, it is recommended to use a split tool, and provide [on-screen timer](https://i.imgur.com/SqvZ3Ij.png) during the run.
 
-- A speedrun will start on the tutorial.
+- A speedrun will start on the tutorial. **Vanguard is mandatory.** **Death by tutorial Dragon God is mandatory.** **No skips allowed, no glitches.**
 
-- **Emulation and PS3:** In the case speedruns using emulators instead of PS3 appear, they will be categorized differently due to FPS and hardware differences.
-
-- **Vanguard is mandatory** / **Death by tutorial Dragon God is mandatory**
+- **Emulation, PS3 and PS5:** RPCS3 and PS3 will be categorized differently due to FPS and hardware differences and obviously, the Remake will be its own category.
 
 #### Speediest Monumentals
 
