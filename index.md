@@ -77,6 +77,10 @@ If you are streaming or recording an entire run (start to finish), please provid
    - Protection, which trivializes challenges with a 30% defense increase.
    - Warding, which cheaply trivializes challenges with a 70% defense increase.
    - Water veil, which cheaply trivializes fire-based challenges with a 45% defense increase.
+   
+* In the case you are doing a run that includes **+0**:
+   - No Regalia weapons.
+   - Upgrading weapons into boss weapons will result in disqualification. Unless you want to use a meme weapon such as Baby Nail, in which case be our guest!
 
 * In the case you are doing a run that includes **No Sprint**:
    - Offensive magic is allowed on the second pillar of the Dragon God's fight. It is pretty much impossible to get past without sprinting.
