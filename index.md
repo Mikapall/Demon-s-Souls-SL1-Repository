@@ -80,7 +80,7 @@ If you are streaming or recording an entire run (start to finish), please provid
    
 * In the case you are doing a run that includes **+0**:
    - No Regalia weapons unless it's a NG+5 run.
-   - Upgrading weapons into boss weapons will result in disqualification. Unless you want to use a meme weapon such as Baby Nail, in which case be our guest!
+   - Upgrading weapons into boss weapons will result in disqualification. Unless you want to use a meme weapon such as Needle of Eternal Agony, in which case be our guest!
 
 * In the case you are doing a run that includes **No Sprint**:
    - It is allowed to use Thief's Ring for Old Hero, Armor Spider, Dragon God. 
