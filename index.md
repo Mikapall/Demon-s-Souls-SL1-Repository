@@ -1,7 +1,32 @@
----
-layout: default
----
+<!doctype html>
+<html lang="en" class="h-100">
+   
+<head>
+   <meta charset="utf-8">
+   <meta http-equiv="x-ua-compatible" content="ie=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <title>DeS SL1 Guidelines</title>
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+      <link rel="stylesheet" href="dark-mode.css">
+</head>
 
+<body class="bg-white text-center d-flex h-100">
+   <div class="container d-flex p-3 mx-auto flex-column">
+      <header class="mb-auto">
+         <h3 class="float-left">Dark Mode Switch</h3>
+         <nav class="nav justify-content-center float-right">
+            <a class="nav-link active" href="notyet">Home</a>
+            <a class="nav-link" href="notyet">GitHub</a>
+        <div class="nav-link">
+          <div class="custom-control custom-switch">
+            <input type="checkbox" class="custom-control-input" id="darkSwitch">
+            <label class="custom-control-label" for="darkSwitch">Dark Mode</label>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+<main role="main">
 #### A comprehensive and community-supported repository on how the Demon's Souls Discord server manages SL1 runs and their numerous challenge variations. Maintained by Sen#1775.
 
 [Demon's Souls Discord Server.](https://discordapp.com/invite/cCSgv4M)
@@ -103,3 +128,13 @@ You can obtain a special role if you are the fastest player in the server to com
 | **2** | Unsafekibble716 (unsafekibble716#1208)*&* | [2:19:54](https://www.youtube.com/watch?v=iziZoq3-cFs)  |
 
 *& Runs done under outdated specifications.*
+</main>
+
+<footer class="mt-auto">
+    <p>&copy; 2019</p>
+</footer>
+<script src="dark-mode-switch.min.js"></script>
+    
+</div>
+</body>
+</html>
