@@ -29,6 +29,10 @@ body {
 	line-height: 1;
 }
 
+	#titleBar {
+		display: none;
+	}
+
 ol, ul {
 	list-style: none;
 }
@@ -269,7 +273,10 @@ body {
 		
 		.icon.des:before{
 			font-family: 'Font Awesome 5 Brands';
-			hover: 
+		}
+		
+		.icon.boss:before{
+			font-family: 'Font Awesome 5 Brands';
 		}
 		
 		#wrapper a {
