@@ -232,6 +232,74 @@ body {
 
 		}
 
+/* Section/Article */
+
+	article.special {
+		text-align: center;
+	}
+
+	header p {
+		color: #aaa;
+		position: relative;
+		margin: 0 0 1.6875em 0;
+	}
+
+	header h2 + p {
+		font-size: 1.25em;
+		margin-top: -0.5em;
+		line-height: 1.5em;
+	}
+
+	header h3 + p {
+		font-size: 1.1em;
+		margin-top: -0.35em;
+		line-height: 1.5em;
+	}
+
+	header h4 + p,
+	header h5 + p,
+	header h6 + p {
+		font-size: 0.9em;
+		margin-top: -0.25em;
+		line-height: 1.5em;
+	}
+	
+/* Features */
+
+	.features article {
+		border-top: solid 3px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		transition: 0.3s;
+		border-radius:25px;
+	}
+		
+		.features article:hover {
+		background-color: #8F8F8F;	
+		}
+
+		.features article .image {
+			display: inline-block;
+			padding-right: 2.5em;
+			vertical-align: middle;
+			width: 38%;
+		}
+
+			.features article .image img {
+				display: block;
+				width: 45%;
+				border-radius: 50%;
+			}
+
+		.features article .inner {
+			display: inline-block;
+			vertical-align: middle;
+			width: 50%;
+		}
+
+			.features article .inner > :last-child {
+				margin-bottom: 0;
+			}
 
 /* Icons */
 
