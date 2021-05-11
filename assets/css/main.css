@@ -303,6 +303,12 @@ body {
 
 /* Icons */
 
+	.none {
+		text-decoration: none;
+		border-bottom: none;
+		position: relative;
+	}
+
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
