@@ -446,6 +446,12 @@ body {
 			margin-right: 0.35em;
 		}
 
+			.feature-icons .image.avatar img {
+				width: 1.8em;
+				height: 1.8em;
+				object-fit: cover;
+			}
+
 		.image.main {
 			display: block;
 			height: 15em;
