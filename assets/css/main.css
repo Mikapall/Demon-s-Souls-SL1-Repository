@@ -301,6 +301,20 @@ body {
 				margin-bottom: 0;
 			}
 
+		#wrapper .features a.profile-link,
+		#wrapper .features a.run-link {
+			color: inherit !important;
+			border-bottom: 0;
+			text-decoration: none;
+		}
+
+			#wrapper .features a.profile-link:hover,
+			#wrapper .features a.run-link:hover {
+				color: inherit !important;
+				text-decoration: underline dotted;
+				text-underline-offset: 0.2em;
+			}
+
 /* Icons */
 
 	.none {
