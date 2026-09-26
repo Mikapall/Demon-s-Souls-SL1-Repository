@@ -287,6 +287,7 @@ body {
 
 			.features article .image img {
 				display: block;
+				margin-left: auto;
 				width: 45%;
 				border-radius: 50%;
 			}
@@ -314,6 +315,37 @@ body {
 				text-decoration: underline dotted;
 				text-underline-offset: 0.2em;
 			}
+
+		@media screen and (max-width: 480px) {
+
+			#header {
+				max-width: 100%;
+			}
+
+			.features article .image {
+				width: 25%;
+				padding-right: 0.75em;
+			}
+
+				.features article .image img {
+					width: 100%;
+				}
+
+			.features article .inner {
+				width: 70%;
+				overflow-wrap: break-word;
+			}
+
+			.feature-icons li {
+				padding-left: 4.15em;
+				text-indent: -4.15em;
+			}
+
+				.feature-icons li > a {
+					white-space: nowrap;
+				}
+
+		}
 
 /* Icons */
 
