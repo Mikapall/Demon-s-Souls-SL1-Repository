@@ -322,19 +322,47 @@ body {
 				max-width: 100%;
 			}
 
+			.features article {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				padding: 1em 0.75em;
+			}
+
+			.features article .inner {
+				display: contents;
+			}
+
+				.features article .inner > h4 {
+					order: 1;
+					width: 100%;
+					margin: 0 0 0.75em 0;
+					text-align: center;
+					overflow-wrap: break-word;
+				}
+
 			.features article .image {
-				width: 25%;
-				padding-right: 0.75em;
+				order: 2;
+				display: block;
+				width: 7em;
+				padding: 0;
+				margin: 0 0 1em 0;
 			}
 
 				.features article .image img {
-					width: 100%;
+					width: 7em;
+					height: 7em;
+					margin: 0;
+					object-fit: cover;
 				}
 
-			.features article .inner {
-				width: 70%;
-				overflow-wrap: break-word;
-			}
+				.features article .inner > p {
+					order: 3;
+					width: 100%;
+					margin: 0;
+					text-align: left;
+					overflow-wrap: break-word;
+				}
 
 			.feature-icons li {
 				padding-left: 4.15em;
