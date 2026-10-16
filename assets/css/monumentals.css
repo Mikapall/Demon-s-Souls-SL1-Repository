@@ -1,0 +1,105 @@
+/* This stylesheet is loaded only by the Monumentals page. */
+html,
+body {
+  background: #494949;
+}
+
+#wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-height: 100dvh;
+  padding-bottom: 0;
+}
+
+#wrapper > #main {
+  flex: 1 0 auto;
+}
+
+#wrapper > #footer {
+  flex-shrink: 0;
+}
+
+#two > .container > h3 + p {
+  margin-bottom: 28px;
+}
+
+#monumental-filters {
+  display: flex;
+  flex-wrap: wrap;
+  container-type: inline-size;
+  gap: 1em;
+  margin-bottom: 1em;
+}
+
+#monumental-filters > div {
+  flex: 1 1 20em;
+  min-width: 0;
+}
+
+#monumental-filters > div:first-child,
+#monumental-filters .monumental-filter-actions {
+  flex-basis: 100%;
+}
+
+#monumental-filters[hidden],
+#two .features article[hidden] {
+  display: none;
+}
+
+#monumental-filters label {
+  display: block;
+  margin-bottom: 0.35em;
+}
+
+#monumental-filters input,
+#monumental-filters select {
+  width: 100%;
+  min-width: 0;
+  height: 2.75em;
+  padding: 0 0.65em;
+  border: 1px solid #777;
+  border-radius: 0.3em;
+  background-color: #333;
+  color: inherit;
+  font: inherit;
+}
+
+#monumental-filters input:focus,
+#monumental-filters select:focus {
+  outline: 2px solid #6a91b0;
+  outline-offset: 2px;
+}
+
+#monumental-filters .monumental-filter-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+#monumental-results {
+  margin: 0;
+}
+
+#monumental-filters button {
+  padding: 0.5em 1.25em;
+  border: 1px solid #777;
+  border-radius: 0.3em;
+  background: #333;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+
+#monumental-filters button:hover,
+#monumental-filters button:focus-visible {
+  border-color: #6a91b0;
+  outline: 2px solid #6a91b0;
+  outline-offset: 2px;
+}
+
+/* Keep long selected labels readable even inside a narrow site column. */
+#monumental-filters select {
+  font-size: clamp(0.65rem, 4.5cqi, 1em);
+}

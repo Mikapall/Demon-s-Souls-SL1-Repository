@@ -7,6 +7,7 @@
 		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/monumentals.css" />
 		<link rel="icon" href="images/favicon.png">
 	</head>
 	<body class="is-preload">
@@ -72,7 +73,33 @@
 								<h3>Monumentals</h3>
 								<p>Below, the Monumentals are listed. You can click on their pictures to be sent to their respective runs and/or videos.
 								Reminder: some runs are really old, and rules might have changed from back then. Always check the main page, and ask moderators if
-								you have any doubt.</p><br /><br />
+								you have any doubt.</p>
+
+                <form id="monumental-filters" hidden aria-label="Filter Monumentals">
+                  <div>
+                    <label for="monumental-search">Search in Monumentals</label>
+                    <input id="monumental-search" name="search" type="search" placeholder="Name, challenge, restriction or boss" />
+                  </div>
+                  <div>
+                    <label for="monumental-challenge">Challenges</label>
+                    <select id="monumental-challenge" name="challenge"><option value="">All challenges</option></select>
+                  </div>
+                  <div>
+                    <label for="monumental-sort">Sort by</label>
+                    <select id="monumental-sort" name="sort">
+                      <option value="">Original order</option>
+                      <option value="az">Name A?Z</option>
+                      <option value="za">Name Z?A</option>
+                      <option value="newest">Newest first</option>
+                      <option value="oldest">Oldest first</option>
+                    </select>
+                  </div>
+                  <div class="monumental-filter-actions">
+                    <button type="reset">Reset</button>
+                    <p id="monumental-results" role="status" aria-live="polite" aria-atomic="true"></p>
+                  </div>
+                </form>
+                <p id="monumental-empty" hidden>No Monumentals match your search and filters.</p>
 
 								<div class="features">
                   
@@ -116,7 +143,8 @@
                           <a href="https://www.youtube.com/watch?v=R74zH62VPws" class="run-link" target="_blank" rel="noopener noreferrer"><span data-date="2022-01-06">• No Sprint/Roll/Block/Parry</span></a><br/><br/>
                           <a href="https://www.youtube.com/watch?v=oPtEyCpaCkc" class="run-link" target="_blank" rel="noopener noreferrer"><span data-date="2021-10-31">• +0 weapons</span></a><br/><br/>
                           <a href="https://www.youtube.com/watch?v=9JGG3eiAtAM" class="run-link" target="_blank" rel="noopener noreferrer"><span data-date="2021-11-02">• Broken Weapons</span></a><br/><br/>
-                          <a href="https://www.youtube.com/watch?v=UqAXPW-_96I" class="run-link" target="_blank" rel="noopener noreferrer"><span data-date="2022-06-29">• Shield Only (Except Storm King)</span></a><br/><br/>
+                          <a href="https://www.youtube.com/watch?v=UqAXPW-_96I" class="run-link" target="_blank" rel="noopener noreferrer"><span data-date="2022-06-29">• Shield Only</span></a><br/>
+                          ↪ <strong><a href="https://www.youtube.com/watch?v=UqAXPW-_96I" target="_blank" rel="noopener noreferrer" style="border-bottom: 0; text-decoration: none; font: inherit; color: inherit !important;">Except Storm King - Light Crossbow</a></strong><br/><br/>
                           <a href="https://www.youtube.com/watch?v=fq0P-IokWNI" class="run-link" target="_blank" rel="noopener noreferrer"><span data-date="2021-11-01">• Deathless</span></a></br></br>
                           <a href="https://www.youtube.com/watch?v=p4DG0ajN1vE" class="run-link" target="_blank" rel="noopener noreferrer"><span data-date="2021-10-31">• No Roll/Block/Parry</span></a><br/>
                           <a href="https://www.youtube.com/watch?v=saybMK5qpf4" class="run-link" target="_blank" rel="noopener noreferrer"><span data-date="2022-01-27">↪ Variation: <strong>NG+5, PBWT, No Hyper (Except Maneaters, FKA), No Hit</strong></span></a><br/><br/>
@@ -604,7 +632,7 @@
                         
                           <span data-date="2021-02-04">• NG+5, No Roll/Block/Parry/Hyper, PBWT</span><br/><br/>
                           <span data-date="2020-06-17">• +0 weapons (No Buffs)</span><br/><br/>
-                          • No Sprint
+                          • No Sprint/Roll/Block/Parry
                       </p>
 										</div>
 									</article>
@@ -666,8 +694,8 @@
                           <a href="https://www.youtube.com/playlist?list=PLmVBVGqfP4k321SME-w2XNZodge6t7vrk" class="run-link" target="_blank" rel="noopener noreferrer"><span data-date="2021-04-09">• +0 weapons <strong>(Iron Knuckles)</strong></span></a><br/>
                           ↪ <strong>Flamelurker - Fists Only, No Hit</strong><br/><br/>
                         
-                          <span data-date="2021-04-19">• NG+5</span><br/>
-                          <span data-date="2021-04-19">↪ <strong>Variation: Bow Only, No Aim/Hit, PBWT/CT</strong></span>
+                          <a href="https://www.youtube.com/playlist?list=PLmVBVGqfP4k09QRS_ritjZmwUUA9h_OOT" class="run-link" target="_blank" rel="noopener noreferrer"><span data-date="2021-04-18">• Bow Only</span></a><br/>
+                          <span data-date="2021-04-19">↪ <strong>NG+5 PBWT, No Aim, No Hit</strong></span>
                       </p>
 										</div>
 									</article>
@@ -744,7 +772,7 @@
                           <span data-date="2026-08-24">↪ <strong>PBWT, No Hit</strong></span><br/><br/>
                           <a href="https://www.youtube.com/playlist?list=PLU2c6239qN78" class="run-link" target="_blank" rel="noopener noreferrer"><span data-date="2026-09-15">• Broken Weapons</span></a><br/>
                           <span data-date="2026-09-15">↪ <strong>No Rings, No Hit, Buffs (Except buffs: Phalanx, Maneaters, FKA)</strong></span><br/><br/>
-                          <a href="https://youtube.com/playlist?list=PLA3Zd5VoGmgg&amp;si=lIsdvIaHNINEwFDP" class="run-link" target="_blank" rel="noopener noreferrer">• NG+5 PBWT No Roll/Block/Parry</a><br/>
+                          <a href="https://youtube.com/playlist?list=PLA3Zd5VoGmgg&amp;si=lIsdvIaHNINEwFDP" class="run-link" target="_blank" rel="noopener noreferrer" data-date="2026-10-06">• NG+5 PBWT No Roll/Block/Parry</a><br/>
                           ↪ <strong>No Rings, No Hyper, No Hit</strong>
                       </p>
 										</div>
@@ -1185,6 +1213,7 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/monumentals.js"></script>
 			<script src="dark-mode-switch.min.js"></script>
 	</body>
 </html>
