@@ -287,6 +287,7 @@ body {
 
 			.features article .image img {
 				display: block;
+				margin-left: auto;
 				width: 45%;
 				border-radius: 50%;
 			}
@@ -300,6 +301,79 @@ body {
 			.features article .inner > :last-child {
 				margin-bottom: 0;
 			}
+
+		#wrapper a.profile-link,
+		#wrapper .features a.run-link {
+			color: inherit !important;
+			border-bottom: 0;
+			text-decoration: none;
+		}
+
+			#wrapper a.profile-link:hover,
+			#wrapper .features a.run-link:hover {
+				color: inherit !important;
+				text-decoration: underline dotted;
+				text-underline-offset: 0.2em;
+			}
+
+		@media screen and (max-width: 480px) {
+
+			#header {
+				max-width: 100%;
+			}
+
+			.features article {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				padding: 1em 0.75em;
+			}
+
+			.features article .inner {
+				display: contents;
+			}
+
+				.features article .inner > h4 {
+					order: 1;
+					width: 100%;
+					margin: 0 0 0.75em 0;
+					text-align: center;
+					overflow-wrap: break-word;
+				}
+
+			.features article .image {
+				order: 2;
+				display: block;
+				width: 7em;
+				padding: 0;
+				margin: 0 0 1em 0;
+			}
+
+				.features article .image img {
+					width: 7em;
+					height: 7em;
+					margin: 0;
+					object-fit: cover;
+				}
+
+				.features article .inner > p {
+					order: 3;
+					width: 100%;
+					margin: 0;
+					text-align: left;
+					overflow-wrap: break-word;
+				}
+
+			.feature-icons li {
+				padding-left: 4.15em;
+				text-indent: -4.15em;
+			}
+
+				.feature-icons li > a {
+					white-space: nowrap;
+				}
+
+		}
 
 /* Icons */
 
@@ -391,6 +465,19 @@ body {
 				border-radius: 100%;
 				display: block;
 				width: 100%;
+			}
+
+		.feature-icons .image.avatar {
+			width: 1.8em;
+			vertical-align: middle;
+			margin-left: 0.25em;
+			margin-right: 0.35em;
+		}
+
+			.feature-icons .image.avatar img {
+				width: 1.8em;
+				height: 1.8em;
+				object-fit: cover;
 			}
 
 		.image.main {
