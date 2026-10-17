@@ -78,6 +78,60 @@ body {
   gap: 1em;
 }
 
+/* Autocomplete dropdown, anchored under the search input at the same width. */
+#monumental-filters .monumental-search {
+  position: relative;
+}
+
+#monumental-suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  max-height: min(20em, 50vh);
+  overflow-y: auto;
+  margin: 0.25em 0 0;
+  padding: 0.25em 0;
+  border: 1px solid #777;
+  border-radius: 0.3em;
+  background: #333;
+  box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.4);
+  list-style: none;
+}
+
+#monumental-suggestions[hidden] {
+  display: none;
+}
+
+#monumental-suggestions li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1em;
+  margin: 0;
+  padding: 0.5em 0.65em;
+  line-height: 1.4;
+  cursor: pointer;
+}
+
+#monumental-suggestions li:hover {
+  background: #444;
+}
+
+#monumental-suggestions li[aria-selected="true"] {
+  background: #6a91b0;
+  color: #fff;
+}
+
+#monumental-suggestions .monumental-suggestion-type {
+  flex-shrink: 0;
+  font-size: 0.75em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  opacity: 0.75;
+}
+
 #monumental-results {
   margin: 0;
 }
