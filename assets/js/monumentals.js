@@ -95,26 +95,33 @@
   cards.forEach(card => card.challenges.forEach(label => labels.add(label)));
   [...labels].sort(collator.compare).forEach(label => challenge.add(new Option(label, label)));
 
-  // Autocomplete terms come only from runner names and primary-run lines, so
+  // Autocomplete terms come only from runner names and recognized run lines, so
   // page copy and descriptions never become suggestions. Each term keeps the
   // runs it came from, letting the selected challenge narrow the suggestions.
   const bossPattern = /\b(?:Vanguard|Phalanx|Tower Knight|Penetrator|Armou?r(?:ed)? Spider|Flamelurker|Dragon God|Fool'?s Idol|Maneaters?|Old Monk|Adjudicator|Old Hero|Storm King|Leechmonger|Dirty Colossus|Maiden Astraea|(?:True |False )?King Allant|both Allants)\b/gi;
-  const restrictionPattern = /^(?:No\b|PBWT\b|Buffs\b|.*\bonly\b)/i;
-  const wholeChallenge = new RegExp(`^(?:${challengePattern.source})$`, 'i');
+  const restrictionLabels = new Map([
+    'No Hit', 'No Sprint', 'No Roll', 'No Block', 'No Parry', 'No Rings',
+    'No Buffs', 'No Hyper', 'No Daggers', 'No Aim', 'No Magic', 'PBWT',
+    'NG+5', 'Fists Only', 'Melee Only', 'Heavy Attacks Only'
+  ].map(label => [label.toLocaleLowerCase(), label]));
   const suggestionTypes = ['Runner', 'Challenge', 'Boss', 'Restriction'];
   const suggestions = new Map();
 
-  function addSuggestion(text, type, runs) {
+  function addSuggestion(text, type, runs, occurrence = null) {
     const label = normalize(text);
     if (!label) return;
     const key = label.toLocaleLowerCase();
-    const entry = suggestions.get(key);
+    const identity = `${type}:${key}`;
+    const entry = suggestions.get(identity);
     if (!entry) {
-      suggestions.set(key, { label, key, type, runs: new Set(runs) });
+      suggestions.set(identity, {
+        label, key, type, runs: new Set(runs),
+        occurrences: occurrence ? [occurrence] : []
+      });
       return;
     }
     runs.forEach(run => entry.runs.add(run));
-    if (suggestionTypes.indexOf(type) < suggestionTypes.indexOf(entry.type)) entry.type = type;
+    if (occurrence) entry.occurrences.push(occurrence);
   }
 
   // Split on commas outside parentheses: "No Hyper (Except Maneaters, FKA)" stays whole.
@@ -130,16 +137,77 @@
     return parts.map(part => normalize(part).replace(/[;:.]+$/, ''));
   }
 
+  // Only explicit, unambiguous terms become restriction suggestions. Keep the
+  // original prose (including ambiguous exceptions) in the free-text index.
+  function restrictionsFor(line) {
+    const text = line.replace(/^[•↪]\s*/, '').replace(/^Variation:\s*/i, '');
+    const output = [];
+    // Keep the card's boss names verbatim, including abbreviations. Recognize
+    // only complete boss lists on one side of a dash, never names in exceptions.
+    function bossList(value) {
+      const names = splitList(value);
+      const completeBoss = new RegExp(`^(?:${bossPattern.source}|Vanguards|FKA|TKA)$`, 'i');
+      return names.length && names.every(name => completeBoss.test(name)) ? names : null;
+    }
+    const sections = text.split(/\s+-\s+/);
+    let scope = { type: 'entry' }; // Unspecified scope is not a full-run assertion.
+    let restrictionText = text;
+    if (sections.length === 2) {
+      const before = bossList(sections[0]);
+      const after = bossList(sections[1]);
+      if (before || after) {
+        scope = { type: 'bosses', bosses: before || after };
+        restrictionText = before ? sections[1] : sections[0];
+      }
+    }
+    restrictionText.split(/\s+-\s+/).flatMap(splitList).forEach(part => {
+      if (/\bor\b/i.test(text) && /fists? only/i.test(part)) return;
+      if (/except/i.test(part) && !/^No Hyper \(Except [^)]+\)$/i.test(part)) return;
+      if (/No BPR\/Bleed|No Morion Blade\/Soul Form/i.test(part)) return;
+      const exception = part.match(/^No Hyper \(Except ([^)]+)\)$/i);
+      const exceptions = exception ? [{
+        text: exception[0].slice(exception[0].indexOf('(') + 1, -1),
+        bosses: bossList(exception[1]) || [],
+        restriction: 'No Hyper'
+      }] : [];
+      // Parenthesized No Buffs/No Hyper are explicit; equipment is not a restriction.
+      const terms = part.replace(/\(([^)]*)\)/g, (_, content) => {
+        if (/^No (?:Buffs|Hyper)$/i.test(content)) termsFrom(content);
+        return '';
+      }).trim();
+      termsFrom(terms);
+      function termsFrom(value) {
+        value.split(/\s+(?=PBWT\b)/i).forEach(term => {
+          const negative = /^No /i.test(term);
+          term.split('/').forEach((piece, index) => {
+            let candidate = normalize(index && negative && !/only$/i.test(piece)
+              ? `No ${piece}` : piece);
+            candidate = candidate.replace(/^Fist only$/i, 'Fists Only')
+              .replace(/^Heavy atacks only$/i, 'Heavy Attacks Only');
+            const label = restrictionLabels.get(candidate.toLocaleLowerCase());
+            if (label) output.push({ label, scope, exceptions, sourceText: part });
+          });
+        });
+      }
+    });
+    return output;
+  }
+
   cards.forEach(card => {
     addSuggestion(card.name, 'Runner', card.runs);
-    card.runs.forEach(run => run.lines.forEach(line => {
-      for (const match of line.matchAll(challengePattern)) addSuggestion(match[0], 'Challenge', [run]);
-      for (const match of line.matchAll(bossPattern)) addSuggestion(match[0], 'Boss', [run]);
-      line.replace(/^[•↪]\s*/, '').replace(/^Variation:\s*/i, '')
-        .split(/\s+-\s+/).flatMap(splitList)
-        .filter(part => restrictionPattern.test(part) && !wholeChallenge.test(part))
-        .forEach(part => addSuggestion(part, 'Restriction', [run]));
-    }));
+    card.runs.forEach(run => {
+      run.challenges.forEach(label => addSuggestion(label, 'Challenge', [run]));
+      run.lines.forEach((line, index) => {
+        for (const match of line.matchAll(bossPattern)) addSuggestion(match[0], 'Boss', [run]);
+        // Do not turn an official primary category into an additional restriction.
+        const text = index === 0 ? line.replace(challengePattern, (match, offset) =>
+          line[offset + match.length] === '/' ? 'No ' : '') : line;
+        restrictionsFor(text).forEach(restriction => addSuggestion(
+          restriction.label, 'Restriction', [run],
+          { ...restriction, run, sourceLine: line, lineIndex: index }
+        ));
+      });
+    });
   });
 
   // Prefix matches first, then matches at a word start, then any other match;
@@ -176,6 +244,7 @@
 
   let shown = [];
   let active = -1;
+  let selectedSuggestion = null;
 
   function closeSuggestions() {
     listbox.hidden = true;
@@ -217,13 +286,18 @@
   }
 
   function choose(index) {
-    search.value = shown[index].label;
+    selectedSuggestion = shown[index];
+    search.value = selectedSuggestion.label;
     closeSuggestions();
     update();
   }
 
-  search.addEventListener('input', openSuggestions);
+  search.addEventListener('input', () => {
+    selectedSuggestion = null;
+    openSuggestions();
+  });
   search.addEventListener('blur', closeSuggestions);
+  challenge.addEventListener('change', closeSuggestions);
   search.addEventListener('keydown', event => {
     if (event.key === 'ArrowDown' || event.key === 'ArrowUp') {
       if (listbox.hidden) openSuggestions();
@@ -256,7 +330,10 @@
   // Empty/card-only searches keep the existing aggregate card date.
   function dateFor(card, query = '') {
     let runs;
-    if (challenge.value) {
+    if (selectedSuggestion) {
+      runs = card.runs.filter(run => selectedSuggestion.runs.has(run) &&
+        (!challenge.value || run.challenges.has(challenge.value)));
+    } else if (challenge.value) {
       runs = card.runs.filter(run => run.challenges.has(challenge.value));
     } else {
       if (!query) return card.date;
@@ -286,7 +363,10 @@
     }
     let count = 0;
     ordered.forEach(card => {
-      const matches = challenge.value
+      const matches = selectedSuggestion
+        ? card.runs.some(run => selectedSuggestion.runs.has(run) &&
+          (!challenge.value || run.challenges.has(challenge.value)))
+        : challenge.value
         ? card.runs.some(run => run.challenges.has(challenge.value) &&
           (card.name.toLocaleLowerCase().includes(query) || run.searchText.includes(query)))
         : card.searchText.includes(query);
@@ -302,6 +382,7 @@
   form.addEventListener('input', update);
   form.addEventListener('change', update);
   form.addEventListener('reset', () => {
+    selectedSuggestion = null;
     search.value = '';
     challenge.value = '';
     sort.value = '';
